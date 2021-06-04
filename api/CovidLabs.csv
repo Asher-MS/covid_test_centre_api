@@ -1,0 +1,627 @@
+id,NAME,Address,District,Test Type,FullAddres,Lab Type,Latitude,Longitude
+1,Avitis Super Specialty Hospitals Private Limited,Avitis Super Specialty Hospitals Private Limited  XX/882  ThrissurPollachi Main Road  Nemmara Palakkad,Palakkad,TRUENAT,,Private Lab,10.5904137,76.580284
+1,DDRC SRL Diagnostics Pvt Ltd,Panampilly Nagar,Ernakulam,RT-PCR,,Private Lab,9.9555410,76.296550
+1,Kinder Womens Hospital and Fertility Centre,Kinder Womens Hospital and Fertility Centre  Cherthala,Alappuzha,ANTIGEN,Kinder Womens Hospital and Fertility Centre  Cherthala  Alappuzha,Private Lab,9.6631736,76.341274
+1,National Institute of Virology,"National Institute of Virology, Field Unit, Allapuzha",Allapuzha,RT-PCR,,Govt Lab,9.4185178,76.341011
+1,,Amrita Institute of Medical Science  Kochi,Ernakulam,XPERT,Amrita Institute of Medical Science,Private Lab,10.0331040,76.292256
+2,Government  Medical College,"Government  Medical College, Thiruvanathapuram",Thiruvanathapuram,RT-PCR,,Govt Lab,8.5230080,76.929326
+2,Health Park Medical Centre,Health Park Medical Centre  Alappuzha,Alappuzha,ANTIGEN,Health Park Medical Centre  Alappuzha,Private Lab,9.4912659,76.336663
+2,Jubilee Mission Medical College & RI,Jubilee Mission Medical College & RI  Thrissur,Thrissur,TRUENAT,,Private Lab,10.5203280,76.227551
+2,MIMS Lab Services,Govindapuram,Kozhikode,RT-PCR,,Private Lab,11.2405350,75.804835
+2,,Aster Medcity  Aster DM Healthcare Ltd  Kutty Sahib Road  Kothad  Cochin,Ernakulam,XPERT,Aster Medcity,Private Lab,10.0528210,76.477804
+3,Aswini Diagnostic Services,Aswini Diagnostic Services  Ramnath Building  Jail Road  Kozhikode,Kozhikode,TRUENAT,,Private Lab,11.2519400,75.789024
+3,Government  Medical College,"Government  Medical College, Kozhikode",Kozhikode,RT-PCR,,Govt Lab,11.2734230,75.837894
+3,Lab Services of Amrita Institute of Medical Sciences & Research Centre,AIMS Ponekkara Kochi,Ernakulam,RT-PCR,,Private Lab,10.0328720,76.293057
+3,Sankar's Healthcare Scans & Diagnostics,Sankar's Healthcare Scans & Diagnostics  Kannampallil Building  Near Medical College  Vandanam  Alappuzha,Alappuzha,ANTIGEN,Sankar's Healthcare Scans & Diagnostics  Kannampallil Building  Near Medical College  Vandanam  Alappuzha  Alappuzha,Private Lab,10.3154670,76.330781
+3,,NIMS Medicity   Aralumoodu  Neyyattinkara  Thiruvananthapuram,Thiruvananthapuram,XPERT,NIMS Medicity,Private Lab,8.4122248,77.063730
+4,Dane Diagnostics Pvt Ltd,18/757 (1) RC Road,Palakkad,RT-PCR,,Private Lab,10.7748620,76.654783
+4,Government Medical College,"Government Medical College, Thrissur",Thrissur,RT-PCR,,Govt Lab,10.6187230,76.196582
+4,Meitra Hospital,Meitra Hospital 38/2208-B  Karaparamba   Kunduparamba MiniBypass  Kozhikode,Kozhikode,TRUENAT,,Private Lab,11.3016960,75.774760
+4,Providence Hospital,Providence Hospital  Thumpoly  Alappuzha,Alappuzha,ANTIGEN,Providence Hospital  Thumpoly  Alappuzha  Alappuzha,Private Lab,9.5262160,76.327767
+4,,Rajagiri Hospital Laboratory Services  Rajagiri Hospital  Chunangamvely  Aluva,Ernakulam,XPERT,Rajagiri Hospital Laboratory Services,Private Lab,10.0877000,76.388793
+5,Medivision Scan & Diagnostic Research Centre Pvt Ltd,Sreekandath Road,Ernakulam,RT-PCR,,Private Lab,9.9616471,76.289441
+5,Metro Diagnostic Centre,Metro Diagnostic Centre AVA Sona Tower  Near General Hospital  Alappuzha,Alappuzha,ANTIGEN,Metro Diagnostic Centre AVA Sona Tower  Near General Hospital  Alappuzha  Alappuzha,Private Lab,9.4521730,76.415145
+5,Rajiv Gandhi Center for Biotechnology,"Rajiv Gandhi Center for Biotechnology, Thiruvanathapuram",Thiruvanathapuram,RT-PCR,,Govt Lab,8.4923597,76.964686
+5,Valluvanad Hospital Complex Limited,Valluvanad Hospital Complex Limited  Ottapalam,Palakaad,TRUENAT,,Private Lab,10.7746350,76.358373
+5,,Micro Health Labs  MPS Tower  Kozhikode,Kozhikode,XPERT,Micro Health LAbs,Private Lab,11.2615050,75.792624
+6,El Lab Metropolis,El Lab Metropolis  North Paramara Road  Opp Town Hall  Cochin (P),Ernakulam,TRUENAT,,Private Lab,9.9896830,76.285099
+6,KVM Superspeciality Hospital,KVM Superspeciality Hospital  Cherthala  Alappuzha,Alappuzha,ANTIGEN,KVM Superspeciality Hospital  Cherthala  Alappuzha  Alappuzha,Private Lab,9.2857700,76.524550
+6,MVR Cancer Centre & Research Institute,CP 13/516 B C Vellalaserri NIT (via) Poolacode,Kozhikode,RT-PCR,,Private Lab,11.2945142,75.946817
+6,Sree Chitra Tirunal Institute of Medical Sciences,"Sree Chitra Tirunal Institute of Medical Sciences, Thiruvanathapuram",Thiruvanathapuram,RT-PCR,,Govt Lab,8.5212499,76.924181
+6,,Believers Church Medical College Laboratory  St Thomas Nagar  Kuttapuzha P.O.  Thiruvalla,Pathanamthitta,XPERT,Believers Church Medical College Laboratory,Private Lab,9.2952530,76.936740
+7,Aswathy Fully Automated Lab,Aswathy Fully Automated Lab  General Hospital  Alappuzha,Alappuzha,ANTIGEN,Aswathy Fully Automated Lab  General Hospital  Alappuzha,Private Lab,9.4902917,76.339717
+7,Aza Diagnostic Centre,Stadium Puthiyara Road,Kozhikode,RT-PCR,,Private Lab,11.2591340,75.807819
+7,Lisie Hospital,Lisie Hospital  a unit of Lisie Medical Institution  Kaloor  Kochi,Ernakulam,TRUENAT,,Private Lab,9.9882711,76.288062
+7,State Public Health Laboratory,"State Public Health Laboratory, Trivandrum",Thiruvanathapuram,RT-PCR,,Govt Lab,8.4982773,76.937278
+7,,Al Salama Diagnostic Centre  Thalakkadathur  Tirur (P) 161. Dept of Lab Medicine,Malappuram,XPERT,Al Salama Diagnostic Centre,Private Lab,10.9368874,75.936534
+8,Baby Memorial Hospital Ltd,Baby Memorial Hospital Ltd  I G Road  Arayadathupalam  Kozhikode,Kozhikode,TRUENAT,,Private Lab,11.2785960,75.805073
+8,Inter University,"Inter University, Kottayam",Kottayam,RT-PCR,,Govt Lab,9.5760936,76.579550
+8,Neuberg Diagnostics Private Limited,Thombra Arcade,Ernakulam,RT-PCR,,Private Lab,9.9951380,76.291924
+8,New Microlab Laboratories,New Microlab Laboratories Opp Govt Girls H.S  Althara Junction Chengannur,Alappuzha,ANTIGEN,New Microlab Laboratories Opp Govt Girls H.S  Althara Junction Chengannur  Alappuzha,Private Lab,9.2702020,76.584263
+8,,Lakeshore Hospital & Research Centre Ltd  NH-66  Bypass Ernakulam,Ernakulam,XPERT,Lakeshore Hospital & Research Centre Ltd,Private Lab,9.9191078,76.318952
+9,Doctors Diagnostic Clinic,Doctors Diagnostic Clinic  kumbalath Building  Haripad  Kerala,Alappuzha,ANTIGEN,Doctors Diagnostic Clinic  kumbalath Building  Haripad  Kerala  Alappuzha,Private Lab,9.9506100,76.331452
+9,EMS Memorial Co-operative Hospital & Research Centre Ltd,EMS Memorial Co-operative Hospital & Research Centre Ltd  Panambi  P.O. Perinthalmanna  Mallappuram,Malappuram,TRUENAT,,Private Lab,10.9761710,76.255412
+9,JEEVA SPECIALTY LABORATORY,Thrissur,Thrissur,RT-PCR,,Private Lab,10.6153040,76.193996
+9,Malabar Cancer Center,"Malabar Cancer Center, Thalassery",Kannur,RT-PCR,,Govt Lab,11.7024960,75.608858
+9,,PRS Hospital Pvt Ltd  Killipalam  Trivandrum,Thiruvananthapuram,XPERT,PRS Hospital Pvt Ltd,Private Lab,8.5896990,77.045034
+10,Believers Church Medical College,Believers Church Medical College  Thiruvalla,Pathanamthitta,TRUENAT,,Private Lab,9.4165750,76.575368
+10,Central University of Kerala,"Central University of Kerala, Periye, Kasaragod",Kasaragod,RT-PCR,,Govt Lab,12.3929900,75.093385
+10,MES Medical College,Perinthalmanna,Malappuram,RT-PCR,,Private Lab,10.9573860,76.175648
+10,STM Lab,STM Lab  Vandanam  Alappuzha,Alappuzha,ANTIGEN,STM Lab  Vandanam  Alappuzha  Alappuzha,Private Lab,9.6841060,76.338066
+10,,Caritas Hospital  Thellakam p o  Kottayam,Kottayam,XPERT,Caritas Hospital,Private Lab,9.8829130,76.573456
+11,Aswini Diagnostic Services,Chinthavalappu Junction Jail Road,Kozhikode,RT-PCR,,Private Lab,11.2785960,75.805073
+11,Government Medical College,"Government Medical College, Ernakulum",Ernakulum,RT-PCR,,Govt Lab,10.0523896,76.353387
+11,HUDA TRUST HOSPITAL,HUDA TRUST HOSPITAL  KUMARAPURAM P.O  HARIPAD  Alappuzha,Alappuzha,ANTIGEN,HUDA TRUST HOSPITAL  KUMARAPURAM P.O  HARIPAD  Alappuzha  Alappuzha,Private Lab,9.4521730,76.415145
+11,KIMS,KIMS  Trivandrum,Thiruvananthapuram,TRUENAT,,Private Lab,8.5136570,76.909322
+11,,Dr. Lal PathLabs Ltd  Opp College Ground M.G. Road  Ernakulam,Ernakulam,XPERT,Dr. Lal PathLabs Ltd,Private Lab,9.8548110,76.526625
+12,Dianova Laboratories,Thevara Buildings Near Federal Bank Gandhi Nagar,Kottayam,RT-PCR,,Private Lab,9.6297780,76.775440
+12,Government  Medical College,"Government  Medical College, Manjeri",Malappuram,RT-PCR,,Govt Lab,11.1177700,76.122223
+12,NIMS,NIMS  Trivandrum,Thiruvananthapuram,TRUENAT,,Private Lab,8.4133638,77.066026
+12,Sahrudaya Hospital,Sahrudaya Hospital  Thathampally P.O  Alappuzha,Alappuzha,ANTIGEN,Sahrudaya Hospital  Thathampally P.O  Alappuzha  Alappuzha,Private Lab,9.5053603,76.341865
+12,,KIMS Hospital  Thiruvananthapuram,Thiruvananthapuram,XPERT,KIMS Hospital,Private Lab,8.5136570,76.909322
+13,DDRCSRL Diagnostics PVT LTD,Mridunga Tower Pattoor road,Thiruvananthapuram,RT-PCR,,Private Lab,8.4993890,76.943500
+13,Ebenezer Hospital,Ebenezer Hospital  Kayamkulam  Alappuzha,Alappuzha,ANTIGEN,Ebenezer Hospital  Kayamkulam  Alappuzha  Alappuzha,Private Lab,9.1735507,76.499703
+13,Government  Medical College,"Government  Medical College, Kottayam",Kottayam,RT-PCR,,Govt Lab,9.6328890,76.520375
+13,R cell diagnostics,R cell diagnostics  Kozhikode,Kozhikode,TRUENAT,,Private Lab,11.2785960,75.805073
+13,,ASTER MIMS  Chala East  Kannur,Kannur,XPERT,ASTER MIMS,Private Lab,11.8391384,75.429997
+14,Government Medical College,"Government Medical College, Kannur",Kannur,RT-PCR,,Govt Lab,12.0712550,75.293405
+14,Iqraa International Hospital & Research Centre,Iqraa International Hospital & Research Centre  Kozhikode,Kozhikode,TRUENAT,,Private Lab,11.2862630,75.797818
+14,Lourdes Matha Hospital,Lourdes Matha Hospital  Pacha  Alappuzha,Alappuzha,ANTIGEN,Lourdes Matha Hospital  Pacha  Alappuzha  Alappuzha,Private Lab,9.4659430,76.331265
+14,Micro Health Laboratories,ZEN Building R.S No. 21 Building No. 29/2254 - A A1 A2  Kavu Stop Thondayad,Kozhikode,RT-PCR,,Private Lab,11.2665440,75.816742
+14,,Metro Scans and Laboratories  Sreekaryam,Thiruvananthapuram,XPERT,Metro Scans and Laboratories,Private Lab,8.5485280,76.918636
+15,Amala Institute of Medical Sciences,Amala Nagar,Thrissur,RT-PCR,,Private Lab,10.5616383,76.166848
+15,Indian Institute of Science Education and Research (IISER),"Indian Institute of Science Education and Research (IISER), Thiruvanathapuram",Thiruvanathapuram,RT-PCR,,Govt Lab,8.6829153,77.136645
+15,Lifeline supersepciality Hospital,Lifeline supersepciality Hospital  Adoor,Kollam,TRUENAT,,Private Lab,9.1634609,76.704137
+15,Midas Scan and laboratory,Midas Scan and laboratory  General Hospital Junction  Alappuzha,Alappuzha,ANTIGEN,Midas Scan and laboratory  General Hospital Junction  Alappuzha  Alappuzha,Private Lab,9.6829440,76.339556
+15,,Metro Scans  Sreekaryam   Thiruvananthapuram,Thiruvananthapuram,XPERT,Metro Scans,Private Lab,8.5485280,76.918636
+16,Almas Hospital,Almas Hospital  Kottakkal   Malappuram,Malappuram,TRUENAT,,Private Lab,10.9998964,75.990818
+16,Government Medical College,"Government Medical College, Palakkad",Palakkad,RT-PCR,,Govt Lab,10.7512880,76.664826
+16,NIMS Medicity Department of Laboratory Medicine,Aralumoodu Neyyattinkara,Thiruvananthapuram,RT-PCR,,Private Lab,8.6915810,76.819351
+16,,Caritas  Kotayam,Kottayam,XPERT,Caritas,Private Lab,9.5882530,76.529574
+17,Chethana Janakeeya Lab,Chethana Janakeeya Lab  TDMC P O  Alappuzha,Alappuzha,ANTIGEN,Chethana Janakeeya Lab  TDMC P O  Alappuzha  Alappuzha,Private Lab,9.6302280,76.313945
+17,HYGEA MED LABORATORIES,29/488-3 AADITHYA ARCADE NEAR VIVEKODAYAM SCHOOL KUNNATHU MANA LANE,Thrissur,RT-PCR,,Private Lab,10.5304320,76.211689
+17,Lourdes Hospital,Lourdes Hospital  Ernakulam,Ernakulam,TRUENAT,,Private Lab,10.0066815,76.277386
+17,,Neuberg Diagnostics Private Limited  Thombra Arcade  Ernakulam,Ernakulam,XPERT,Neuberg Diagnostics Private Limited,Private Lab,9.9951517,76.289734
+18,Amala Medical  College,Amala Medical  College  Thrissur,Thrissur,TRUENAT,,Private Lab,10.5616383,76.166848
+18,Biovision India Specialty Diagnostic Centre,Biovision India Specialty Diagnostic Centre  Thazhakkara  Mavelikkara,Alappuzha,ANTIGEN,Biovision India Specialty Diagnostic Centre  Thazhakkara  Mavelikkara,Private Lab,9.2545450,76.551533
+18,Government Medical College Hospital,"Government Medical College Hospital, Kollam",Kollam,TRUENAT,,Govt Lab,8.8116350,76.749936
+18,R-Cell Diagnostics & Research Centre,27/97 E FCC Building Arayidathupalam,Kozhikode,RT-PCR,,Private Lab,11.2589020,75.794255
+18,,PRS Hospital,Thiruvananthapuram,XPERT,PRS Hospital,Private Lab,8.4811163,76.959229
+19,Believers Church Medical College,St. Thomas Nagar  27/97 E FCC Building Arayidathupalam,Pathanamthitta,RT-PCR,,Private Lab,9.2688490,76.782067
+19,Central Laboratories,Central Laboratories  A Unit of Diachem Healthcare Private Limited  Bund Road Kanjany  Thrissur,Thrissur,TRUENAT,,Private Lab,10.4493880,76.269133
+19,Government TD Medical College,"Government TD Medical College, Alappuzha",Alappuzha,TRUENAT,,Govt Lab,9.4081227,76.345232
+19,Mahajubilee Memorial Hospital,Mahajubilee Memorial Hospital  Edathua,Alappuzha,ANTIGEN,Mahajubilee Memorial Hospital  Edathua  Alappuzha,Private Lab,9.3198540,76.611486
+20,District Public Health Laboratory,"District Public Health Laboratory, Wayanad",Wayanad,TRUENAT,,Govt Lab,11.8006107,75.999754
+20,KMCT Medical College,KMCT Medical College  Kozhikode,Kozhikode,TRUENAT,,Private Lab,11.3258412,75.970174
+20,KMCT Medical College Hospital,Manassery,Kozhikode,RT-PCR,,Private Lab,11.3258412,75.970174
+20,St. Sebastians Visitisation Hospital,St. Sebastians Visitisation Hospital  Arthunkal  Cherthala,Alappuzha,ANTIGEN,St. Sebastians Visitisation Hospital  Arthunkal  Cherthala  Alappuzha,Private Lab,9.6462770,76.304340
+21,District TB Centre,"District TB Centre, Palakkad",Palakkad,TRUENAT,,Govt Lab,10.7597040,76.658532
+21,Kozhikode District  Co-operative Hospital,Kozhikode District  Co-operative Hospital  Kozhikode,Kozhikode,TRUENAT,,Private Lab,11.2769102,75.784491
+21,PK Das Institute of Medical Sciences,Vaniamkulam Ottapalam,Palakkad,RT-PCR,,Private Lab,10.7851120,76.325826
+21,Sanjivani Multispecialty Hospital,Sanjivani Multispecialty Hospital  situated in Kollakadavu  Chengannur  Alappuzha,Alappuzha,ANTIGEN,Sanjivani Multispecialty Hospital  situated in Kollakadavu  Chengannur  Alappuzha  Alappuzha,Private Lab,9.2592240,76.596170
+22,Avitis Super Specialty Hospitals Pvt Ltd,Thrissur-Pollachi Main Road Nemmara,Palakkad,RT-PCR,,Private Lab,10.5935600,76.596400
+22,INHS Sanjivani,"INHS Sanjivani, Kochi",Ernakulam,TRUENAT,,Govt Lab,9.9468464,76.280474
+22,Janata Diagnostics,Janata Diagnostics  Tirurangadi  Malappuram,Malappuram,TRUENAT,,Private Lab,11.0431003,75.913176
+22,Sree Narayana Medical Mission Hospital,Sree Narayana Medical Mission Hospital  Cherthala  Alappuzha,Alappuzha,ANTIGEN,Sree Narayana Medical Mission Hospital  Cherthala  Alappuzha  Alappuzha,Private Lab,9.6744309,76.341348
+23,Devi Scans Pvt Ltd,Kumarapuram,Thiruvananthapuram,RT-PCR,,Private Lab,8.5160760,76.927340
+23,District Public Health Laboratory,"District Public Health Laboratory, Kollam",Kollam,TRUENAT,,Govt Lab,8.8878333,76.583438
+23,KERALA DIAGNOSTIC CENTRE,KERALA DIAGNOSTIC CENTRE  KOSIA BUILDING  OPP:RAIBAN THEATRE  GENERAL HOSPITAL JUNCTION  ALAPPUZHA,Alappuzha,ANTIGEN,KERALA DIAGNOSTIC CENTRE  KOSIA BUILDING  OPP:RAIBAN THEATRE  GENERAL HOSPITAL JUNCTION  ALAPPUZHA  Alappuzha,Private Lab,9.4701250,76.337986
+23,Lakshmi Hospital,Lakshmi Hospital  Diwans Road  Ernakulam,Ernakulam,TRUENAT,,Private Lab,9.9663657,76.283693
+24,Government Medical College,"Government Medical College, Idukki",Idukki,TRUENAT,,Govt Lab,9.8484000,76.960778
+24,NS Memorial Institute of Medical Sciences,NS Memorial Institute of Medical Sciences  Palathara  Thattamala P.O Kollam,Kollam,TRUENAT,,Private Lab,8.8688010,76.643791
+24,POOCHAKKAL MEDICAL CENTRE,POOCHAKKAL MEDICAL CENTRE  POOCHAKKAL P O  CHERTHALA  ALAPPUZHA,Alappuzha,ANTIGEN,POOCHAKKAL MEDICAL CENTRE  POOCHAKKAL P O  CHERTHALA  ALAPPUZHA  Alappuzha,Private Lab,9.1764410,76.568905
+24,Sree Gokulam Medical College & Research Foundation,Venjaramoodu,Thiruvananthapuram,RT-PCR,,Private Lab,8.6916940,76.914074
+25,District Hospital Palakkad,District Hospital Palakkad,Palakkad,TRUENAT,,Govt Lab,10.7691989,76.651247
+25,DM Wayanad Institute of medical Sciences,Naseera Nagar Meppadi PO,Thiruvananthapuram,RT-PCR,,Private Lab,8.5135970,76.909476
+25,KCM Hospital,KCM Hospital  LS PO  Nooranad  Alappuzha,Alappuzha,ANTIGEN,KCM Hospital  LS PO  Nooranad  Alappuzha,Private Lab,9.1753250,76.624519
+25,Neethi Lab,Neethi Lab  Thettammal Building  Near Government Hospital  Tirur  Malappuram,Malappuram,TRUENAT,,Private Lab,10.9121880,75.922754
+26,District TB Centre,"District TB Centre, Kottayam",Kottayam,CB NAAT,,Govt Lab,9.5911980,76.526674
+26,Malankara Orthodox Syrian Church Medical College,Kolenchery,Thiruvananthapuram,RT-PCR,,Private Lab,9.9818960,76.476360
+26,MDC SCANS AND LABORATORY,MDC SCANS AND LABORATORY  PAMPPORETH TOWER  PAZHAYA ROAD MEDICAL COLLEGE P O  THIRUVANANTHAPURAM,Thiruvananthapuram,TRUENAT,,Private Lab,8.5090970,76.929562
+26,St Thomas Mission Hospital,St Thomas Mission Hospital  Pallickal Po  Kattanam  Alappuzha,Alappuzha,ANTIGEN,St Thomas Mission Hospital  Pallickal Po  Kattanam  Alappuzha  Alappuzha,Private Lab,9.1688260,76.581544
+27,ASTER KOCHI,ASTER KOCHI,Ernakulam,ANTIGEN,ASTER KOCHI  Ernakulam,Private Lab,10.0329503,76.276686
+27,Korambayil Hospital and Diagnostic Centre,Korambayil Hospital and Diagnostic Centre  Manjeri,Malappuram,TRUENAT,,Private Lab,10.9750100,76.232619
+27,Regional Cancer Centre,"Regional Cancer Centre, Thiruvananthapuram",Thiruvanathapuram,CB NAAT,,Govt Lab,8.5207800,76.925193
+28,Lakeshore Hospital,Lakeshore Hospital  Ernakulam,Ernakulam,ANTIGEN,Lakeshore Hospital  Ernakulam  Ernakulam,Private Lab,9.9179841,76.317465
+28,Micro Health Laboratories,Micro Health Laboratories  MP Tower  Next to Lavanya Plaza  Near Taluk Hospital  Thamarassery  Kozhikode,Kozhikode,TRUENAT,,Private Lab,11.4119860,75.936380
+29,AIMS Kochi,AIMS Kochi,Ernakulam,ANTIGEN,AIMS Kochi  Ernakulam,Private Lab,9.9562970,76.332486
+29,Jubilee Memorial Hospital,Jubilee Memorial Hospital  Meads Lane  Palayam  Thiruvananthapuram,Thiruvananthapuram,TRUENAT,,Private Lab,8.5018901,76.952123
+30,Hi-tech Diagnostic Centre,Hi-tech Diagnostic Centre  1st Floor KTM Bike Showroom  Janatha Stop  Sahodaran Ayyappan Road   Vyttila  Kochi,Ernakulam,TRUENAT,,Private Lab,9.9562970,76.332486
+30,Rajagiri Hospital Aluva,Rajagiri Hospital Aluva,Ernakulam,ANTIGEN,Rajagiri Hospital Aluva  Ernakulam,Private Lab,10.0877391,76.388243
+31,Daya General Hospital Limited,Daya General Hospital Limited  Shornur Road  Thrissur,Thrissur,TRUENAT,,Private Lab,10.4493880,76.269133
+31,DDRC,DDRC  Kochi,Ernakulam,ANTIGEN,DDRC  Kochi  Ernakulam,Private Lab,9.9220467,76.273544
+32,Jeeva Specialty Lab (A Hi Tech Diagnostic Institute),Jeeva Specialty Lab (A Hi Tech Diagnostic Institute)  4th Floor  Academic Block  Jubilee Mission Medical College and RI  Thrissur,Thrissur,TRUENAT,,Private Lab,10.6149000,76.194071
+32,Vijaya Kumara Menon Hospital,Vijaya Kumara Menon Hospital  Ernakulam,Ernakulam,ANTIGEN,Vijaya Kumara Menon Hospital  Ernakulam  Ernakulam,Private Lab,9.9527732,76.340715
+33,KDC Lab Kanhangad,KDC Lab Kanhangad  Mishal Towers  Opp. Little flower G.H.S School  Puthiyakotta  Kanhangad  Kasaragod,Kasaragod,TRUENAT,,Private Lab,12.3091533,75.092463
+33,Medical Trust Hospital,Medical Trust Hospital  Ernakulam,Ernakulam,ANTIGEN,Medical Trust Hospital  Ernakulam  Ernakulam,Private Lab,10.1152829,76.200567
+34,POLAKULATH NARAYANAN RENAI MEDICITY,POLAKULATH NARAYANAN RENAI MEDICITY  Kochi,Ernakulam,ANTIGEN,POLAKULATH NARAYANAN RENAI MEDICITY  Kochi,Private Lab,10.0077444,76.303311
+34,St Gregorios Medical Mission Hospital,St Gregorios Medical Mission Hospital  Parumala  Pathanamthitta,Pathanamthitta,TRUENAT,,Private Lab,9.3939100,76.578686
+35,CIMAR Cochin Hospitals,CIMAR Cochin Hospitals  Ernakulam,Ernakulam,ANTIGEN,CIMAR Cochin Hospitals  Ernakulam  Ernakulam,Private Lab,10.0515389,76.296743
+35,Western Hospital & Nursing Home,Western Hospital & Nursing Home  Nadakkavu  Kozhikode,Kozhikode,TRUENAT,,Private Lab,9.9922871,76.585109
+36,MOSC Medical College,MOSC Medical College  First Floor  Department of Microbiology  College Block  Medical College Road P.O. Kolenchery  Kochi,Ernakulam,TRUENAT,,Private Lab,10.0480270,76.354024
+36,SREE SUDHEENDRA MEDICAL MISSION ERNAKULAM,SREE SUDHEENDRA MEDICAL MISSION ERNAKULAM,Ernakulam,ANTIGEN,SREE SUDHEENDRA MEDICAL MISSION ERNAKULAM  Ernakulam,Private Lab,9.9849328,76.283296
+37,Alpha ENT head&neck Research Institute,Alpha ENT head&neck Research Institute  Ernakulam,Ernakulam,ANTIGEN,Alpha ENT head&neck Research Institute  Ernakulam  Ernakulam,Private Lab,10.0032624,76.295379
+37,Nirmala Hospital,Nirmala Hospital  Dept. of Molecular Biology  Kozhikode (P),Kozhikode,TRUENAT,,Private Lab,11.2918040,75.824588
+38,Mar Baselios Medical Mission Hospital Kothamangalam,Mar Baselios Medical Mission Hospital Kothamangalam,Ernakulam,ANTIGEN,Mar Baselios Medical Mission Hospital Kothamangalam  Ernakulam,Private Lab,10.0645781,76.622395
+38,MBH Hospital LLP,MBH Hospital LLP  Malappuram,Malappuram,TRUENAT,,Private Lab,11.0540914,76.081057
+39,Little Flower Hospital & Research Centre,Little Flower Hospital & Research Centre  Angamaly,Ernakulam,ANTIGEN,Little Flower Hospital & Research Centre  Angamaly  Ernakulam,Private Lab,10.1910662,76.387433
+39,Paalana Institute of Medical Sciences,Paalana Institute of Medical Sciences  Kannadi PO  Palakkad (P),Palakkad,TRUENAT,,Private Lab,10.7383990,76.651172
+40,Dr. Scan Diagnostic Centre,Dr. Scan Diagnostic Centre  Opposite Soubhaghya Appartments  Near Arayidathupalam  Mavoor road  Kozhikode (P),Kozhikode,TRUENAT,,Private Lab,11.1267180,75.958626
+40,St Joseph Hospital,St Joseph Hospital  Dharmagiri  Ernakulam,Ernakulam,ANTIGEN,St Joseph Hospital  Dharmagiri  Ernakulam  Ernakulam,Private Lab,10.0601910,76.301414
+41,Ahalia Central Laboratory,Ahalia Central Laboratory  A Unit of Ahalia International Foundation  Ahalia Campus  Kozhipara  Palakkad (P),Palakkad,TRUENAT,,Private Lab,10.7944290,76.826887
+41,Sabine Hospital & Research Centre Pvt Ltd,Sabine Hospital & Research Centre Pvt Ltd  Pezhakkappilly P.O  Muvattupuzha  Ernakulam,Ernakulam,ANTIGEN,Sabine Hospital & Research Centre Pvt Ltd  Pezhakkappilly P.O  Muvattupuzha  Ernakulam  Ernakulam,Private Lab,10.0141243,76.567870
+42,Gimcare Hospital,Gimcare Hospital  A Unit of Genesis Institute of Medical Science Pvt Ltd.  Chala bypass  Kannur,Kannur,TRUENAT,,Private Lab,11.8629460,75.358829
+42,Microlab Speciality Health Care Services,Microlab Speciality Health Care Services  Kozhenchery,Ernakulam,ANTIGEN,Microlab Speciality Health Care Services  Kozhenchery  Ernakulam,Private Lab,10.0877000,76.388793
+43,E.S.I.C. Hospital,E.S.I.C. Hospital  Udyogmandal  Ernakulam,Ernakulam,ANTIGEN,E.S.I.C. Hospital  Udyogmandal  Ernakulam  Ernakulam,Private Lab,10.0778150,76.317793
+44,Samaritan Hospital,Samaritan Hospital  Pazhanganad  Ernakulam,Ernakulam,ANTIGEN,Samaritan Hospital  Pazhanganad  Ernakulam  Ernakulam,Private Lab,10.0438220,76.396719
+45,Sanjoe Hospital,Sanjoe Hospital  A M Road Perumbavoor  Ernakulam,Ernakulam,ANTIGEN,Sanjoe Hospital  A M Road Perumbavoor  Ernakulam  Ernakulam,Private Lab,10.1787070,76.445404
+46,St Joseph hospital trust,St Joseph hospital trust  Manjummel  Ernakulam,Ernakulam,ANTIGEN,St Joseph hospital trust  Manjummel  Ernakulam  Ernakulam,Private Lab,9.9888190,76.577693
+47,Lisie Hospital,Lisie Hospital  Ernakulam,Ernakulam,ANTIGEN,Lisie Hospital  Ernakulam  Ernakulam,Private Lab,9.9893717,76.288988
+48,Carmel Hospital,Carmel Hospital  Asokapuram  Aluva,Ernakulam,ANTIGEN,Carmel Hospital  Asokapuram  Aluva  Ernakulam,Private Lab,10.0905570,76.362071
+49,P S Mission Hospital Maradu,P S Mission Hospital Maradu,Ernakulam,ANTIGEN,P S Mission Hospital Maradu  Ernakulam,Private Lab,9.9377796,76.322716
+50,MAGJ,MAGJ  Hospital  Mookkannoor  Angamaly,Ernakulam,ANTIGEN,MAGJ  Hospital  Mookkannoor  Angamaly  Ernakulam,Private Lab,10.2209840,76.413623
+51,Sunrise Hospital,Sunrise Hospital Seaport-Airport Road  Mavelipuram  Kakkanad,Ernakulam,ANTIGEN,Sunrise Hospital Seaport-Airport Road  Mavelipuram  Kakkanad  Ernakulam,Private Lab,10.0252320,76.338880
+52,Kinder Multispeciality Hospital,Kinder Multispeciality Hospital Kochi,Ernakulam,ANTIGEN,Kinder Multispeciality Hospital Kochi  Ernakulam,Private Lab,10.0381550,76.315859
+53,Indira Gandhi Co-operative Hospital,Indira Gandhi Co-operative Hospital  Kadavanthra  Ernakulam,Ernakulam,ANTIGEN,Indira Gandhi Co-operative Hospital  Kadavanthra  Ernakulam  Ernakulam,Private Lab,9.9688950,76.298569
+54,Nirmala Medical Centre,Nirmala Medical Centre  Muvattupuzha,Ernakulam,ANTIGEN,Nirmala Medical Centre  Muvattupuzha  Ernakulam,Private Lab,9.9797144,76.592478
+55,Specialists Hospital,Specialists Hospital  K.C.M Mather road  Ernakulam,Ernakulam,ANTIGEN,Specialists Hospital  K.C.M Mather road  Ernakulam  Ernakulam,Private Lab,9.9905344,76.286018
+56,Neuberg Diagnostics,Neuberg Diagnostics  Kaloor  Kochi,Ernakulam,ANTIGEN,Neuberg Diagnostics  Kaloor  Kochi,Private Lab,9.9951444,76.291494
+57,Vivid Diagnostic Centre,Vivid Diagnostic Centre  Chalikkavattom  Vytila,Ernakulam,ANTIGEN,Vivid Diagnostic Centre  Chalikkavattom  Vytila  Ernakulam,Private Lab,9.9799820,76.282025
+58,Sree Narayana Institute of medical sciences,Sree Narayana Institute of medical sciences Chalakka,Ernakulam,ANTIGEN,Sree Narayana Institute of medical sciences Chalakka  Ernakulam,Private Lab,10.0480270,76.354024
+59,Hi Tech Diagnostic Centre Palarivattom,Hi Tech Diagnostic Centre Palarivattom,Ernakulam,ANTIGEN,Hi Tech Diagnostic Centre Palarivattom  Ernakulam,Private Lab,10.0188960,76.289241
+60,Devi Hospital Pvt Ltd,Devi Hospital Pvt Ltd North Fort Gate Tripunithura,Ernakulam,ANTIGEN,Devi Hospital Pvt Ltd North Fort Gate Tripunithura   Ernakulam,Private Lab,10.0528210,76.477804
+61,Sreekantapuram Hospital,Sreekantapuram Hospital  Mavelikkara,Ernakulam,ANTIGEN,Sreekantapuram Hospital  Mavelikkara  Ernakulam,Private Lab,9.9893920,76.289097
+62,V S M Hospital,V S M Hospital  Thattarambalam  Mavelikkara,Ernakulam,ANTIGEN,V S M Hospital  Thattarambalam  Mavelikkara  Ernakulam,Private Lab,9.8548110,76.526625
+63,M A J Hospital,M A J Hospital  Edappally  Kochi,Ernakulam,ANTIGEN,M A J Hospital  Edappally  Kochi  Ernakulam,Private Lab,10.0212380,76.308035
+64,Don Bosco Hospital,Don Bosco Hospital  North Paravur  Ernakulam,Ernakulam,ANTIGEN,Don Bosco Hospital  North Paravur  Ernakulam  Ernakulam,Private Lab,9.9981190,76.314588
+65,MOSC Medical College Hospital,MOSC Medical College Hospital  Kolenchery  Ernakulam  Kerala,Ernakulam,ANTIGEN,MOSC Medical College Hospital  Kolenchery  Ernakulam  Kerala  Ernakulam,Private Lab,10.0529550,76.355734
+66,Doctor's Diagnostic Centre Pvt Ltd,Doctor's Diagnostic Centre Pvt Ltd  CGN Building  Thripunithura Ernakulam,Ernakulam,ANTIGEN,Doctor's Diagnostic Centre Pvt Ltd  CGN Building  Thripunithura Ernakulam  Ernakulam,Private Lab,9.9506100,76.331452
+67,EI Lab Metropolis,EI Lab Metropolis  North Square Building Opp Town Hall  Ernakulam North,Ernakulam,ANTIGEN,EI Lab Metropolis  North Square Building Opp Town Hall  Ernakulam North  Ernakulam,Private Lab,9.8548110,76.526625
+68,Akshaya Hospital,Akshaya Hospital  Kaloor  Kadavanthra  Kochi,Ernakulam,ANTIGEN,Akshaya Hospital  Kaloor  Kadavanthra  Kochi  Ernakulam,Private Lab,9.9690250,76.299662
+69,AP Varkey Mission Hospital,AP Varkey Mission Hospital Thottapady  Arakkunnam  Mulanthuruthy,Ernakulam,ANTIGEN,AP Varkey Mission Hospital Thottapady  Arakkunnam  Mulanthuruthy  Ernakulam,Private Lab,9.8859300,76.447221
+70,Ernaklam Medical Centre Hospital (P) Ltd,Ernaklam Medical Centre Hospital (P Ltd  NH Bypass  Pallarivattom  Cochin,Ernakulam,ANTIGEN,Ernaklam Medical Centre Hospital (P Ltd  NH Bypass  Pallarivattom  Cochin  Ernakulam,Private Lab,10.0528210,76.477804
+71,Dr. Lal PathLabs Ltd.,Dr. Lal PathLabs Ltd. Opp College Ground M.G. Road Ernakulam Cochin,Ernakulam,ANTIGEN,Dr. Lal PathLabs Ltd. Opp College Ground M.G. Road Ernakulam Cochin  Ernakulam,Private Lab,10.0528210,76.477804
+72,B and B Memorial Hospital,B and B Memorial Hospital  Thrikkakara  Ernakulam,Ernakulam,ANTIGEN,B and B Memorial Hospital  Thrikkakara  Ernakulam  Ernakulam,Private Lab,9.9932700,76.283359
+73,Gautham Hospital,Gautham Hospital  Panayappilly  Kochi,Ernakulam,ANTIGEN,Gautham Hospital  Panayappilly  Kochi  Ernakulam,Private Lab,9.9468667,76.256042
+74,Lakshmi Hospital,Lakshmi Hospital  Diwans Road  Ernakulam,Ernakulam,ANTIGEN,Lakshmi Hospital  Diwans Road  Ernakulam  Ernakulam,Private Lab,9.9663657,76.283693
+75,Thrikkakara Municipal Cooperative Hospital Society Ltd No.E-993,Thrikkakara Municipal Cooperative Hospital Society Ltd No.E-993  Kakkanad,Ernakulam,ANTIGEN,Thrikkakara Municipal Cooperative Hospital Society Ltd No.E-993  Kakkanad,Private Lab,10.0189611,76.343494
+76,Medical Trust Hospital,Medical Trust Hospital  Kuzhuppilly  Ayyampilly  Ernakulam,Ernakulam,ANTIGEN,Medical Trust Hospital  Kuzhuppilly  Ayyampilly  Ernakulam  Ernakulam,Private Lab,10.0441870,76.317804
+77,Karothukuzhi Hospital,Karothukuzhi Hospital  Aluva Ernakulam,Ernakulam,ANTIGEN,Karothukuzhi Hospital  Aluva Ernakulam  Ernakulam,Private Lab,10.1052629,76.350946
+78,KRISHNA HOSPITAL,KRISHNA HOSPITAL  M G CHITTOOR ROAD  COCHIN,Ernakulam,ANTIGEN,KRISHNA HOSPITAL  M G CHITTOOR ROAD  COCHIN  Ernakulam,Private Lab,10.0528210,76.477804
+79,Ernakulam Medical Centre Hospital (P Ltd,Ernakulam Medical Centre Hospital (P Ltd  Palarivattom  Kochi,Ernakulam,ANTIGEN,Ernakulam Medical Centre Hospital (P Ltd  Palarivattom  Kochi  Ernakulam,Private Lab,9.9996780,76.314531
+80,Meditech Diagnostic Centre,Meditech Diagnostic Centre  Silpa Complex  Muppathadam P O  Aluva,Ernakulam,ANTIGEN,Meditech Diagnostic Centre  Silpa Complex  Muppathadam P O  Aluva  Ernakulam,Private Lab,9.9799820,76.282025
+81,Vimala Hospital,Vimala Hospital  Kanjoor  Ernakulam,Ernakulam,ANTIGEN,Vimala Hospital  Kanjoor  Ernakulam  Ernakulam,Private Lab,10.1446050,76.424672
+82,Muvattupuzha Co-operative Super Speciality Hospital,Muvattupuzha Co-operative Super Speciality Hospital,Ernakulam,ANTIGEN,Muvattupuzha Co-operative Super Speciality Hospital,Private Lab,9.9922306,76.587950
+83,Sangeeth Hospital,Sangeeth Hospital  Mattanchery PO  Ernakulam,Ernakulam,ANTIGEN,Sangeeth Hospital  Mattanchery PO  Ernakulam,Private Lab,9.9572806,76.251000
+84,Medivision Scan & Diagnostic Research Centre Pvt Ltd,Medivision Scan & Diagnostic Research Centre Pvt Ltd  Ravipuram  Kochi,Ernakulam,ANTIGEN,Medivision Scan & Diagnostic Research Centre Pvt Ltd  Ravipuram  Kochi  Ernakulam,Private Lab,9.9616530,76.289423
+85,Santhula trust hospital,Santhula trust hospital  Vadakara PO  Koothattukulam  Ernakulam,Ernakulam,ANTIGEN,Santhula trust hospital  Vadakara PO  Koothattukulam  Ernakulam  Ernakulam,Private Lab,9.9888190,76.577693
+86,NEDUMCHALIL TRUST HOSPITAL,NEDUMCHALIL TRUST HOSPITAL MARKET P O MUVATTUPUZHA,Ernakulam,ANTIGEN,NEDUMCHALIL TRUST HOSPITAL MARKET P O MUVATTUPUZHA  Ernakulam,Private Lab,10.0134210,76.626624
+87,DEPARTMENT OF LABORATORY,DEPARTMENT OF LABORATORY  Shenoys CARE (P LTD  Near Nippon Toyota   Nettoor   Ernakulam,Ernakulam,ANTIGEN,DEPARTMENT OF LABORATORY  Shenoys CARE (P LTD  Near Nippon Toyota   Nettoor   Ernakulam  Ernakulam,Private Lab,10.0883290,76.425394
+88,Dr KUNHALUS NURSING HOME,Dr KUNHALUS NURSING HOME T D ROAD  ERNAKULAM,Ernakulam,ANTIGEN,Dr KUNHALUS NURSING HOME T D ROAD  ERNAKULAM  Ernakulam,Private Lab,9.8548110,76.526625
+89,Naveen Lab,Naveen Lab  Near Govt. Hospital  Perumbavoor  Ernakulam,Ernakulam,ANTIGEN,Naveen Lab  Near Govt. Hospital  Perumbavoor  Ernakulam,Private Lab,10.1155944,76.481197
+90,PMM Hospital,PMM Hospital  Kalady  Kanjoor Road,Ernakulam,ANTIGEN,PMM Hospital  Kalady  Kanjoor Road  Ernakulam,Private Lab,9.8548110,76.526625
+91,VISHUS HI TECH DIAGNOSTIC CENTRE,VISHUS HI TECH DIAGNOSTIC CENTRE  Thundathil building  PWD road  SN junction  Nettoor- Madavana road  Ernakulam,Ernakulam,ANTIGEN,VISHUS HI TECH DIAGNOSTIC CENTRE  Thundathil building  PWD road  SN junction  Nettoor- Madavana road  Ernakulam  Ernakulam,Private Lab,9.8548110,76.526625
+92,Welcare Hospital,Welcare Hospital  SA Road  Vytila,Ernakulam,ANTIGEN,Welcare Hospital  SA Road  Vytila  Ernakulam,Private Lab,9.9996610,76.301096
+93,Devamatha Hospital,Devamatha Hospital  Koothattukulam  Ernakulam,Ernakulam,ANTIGEN,Devamatha Hospital  Koothattukulam  Ernakulam  Ernakulam,Private Lab,9.8656390,76.595315
+94,Najath Hospital,Najath Hospital  Bye Pass Junction  Aluva,Ernakulam,ANTIGEN,Najath Hospital  Bye Pass Junction  Aluva  Ernakulam,Private Lab,10.1109830,76.351570
+95,Anwar Memorial Hospital Health Laboratory,Anwar Memorial Hospital Health Laboratory  Santhosh Lane  Aluva,Ernakulam,ANTIGEN,Anwar Memorial Hospital Health Laboratory  Santhosh Lane  Aluva  Ernakulam,Private Lab,9.9334100,76.383017
+96,Apollo Adlux hospital,Apollo Adlux hospital  35/2  Cable junction  Karukutty post  Angamaly  Ernakulam,Ernakulam,ANTIGEN,Apollo Adlux hospital  35/2  Cable junction  Karukutty post  Angamaly  Ernakulam,Private Lab,10.2396806,76.372492
+97,V.G.Saraf Memorial Hospital Pvt Ltd,V.G.Saraf Memorial Hospital Pvt Ltd  39/4603-A  Sreekandath  Road  Ravipuram,Ernakulam,ANTIGEN,V.G.Saraf Memorial Hospital Pvt Ltd  39/4603-A  Sreekandath  Road  Ravipuram  Ernakulam,Private Lab,9.8548110,76.526625
+98,Holy Family Hospital,Holy Family Hospital Muthalakodam  Idukki,Idukki,ANTIGEN,Holy Family Hospital Muthalakodam  Idukki  Idukki,Private Lab,9.9122220,76.733642
+99,Chazhikattu Hospitals pvt Ltd,Chazhikattu Hospitals pvt Ltd IX/139A River View Road Thodupuzha Idukki,Idukki,ANTIGEN,Chazhikattu Hospitals pvt Ltd IX/139A River View Road Thodupuzha Idukki  Idukki,Private Lab,9.9390920,76.712615
+100,St. Marys Health Care Pvt Ltd. Thodupuzha,St. Marys Health Care Pvt Ltd. Thodupuzha,Idukki,ANTIGEN,St. Marys Health Care Pvt Ltd. Thodupuzha  Idukki,Private Lab,9.8968260,76.937710
+101,Idukki District Co Operative Hospital,Idukki District Co Operative Hospital   Thodupuzha,Idukki,ANTIGEN,Idukki District Co Operative Hospital   Thodupuzha  Idukki,Private Lab,9.7370470,77.061336
+102,Al Azhar Medical College & Hospital,Al Azhar Medical College & Hospital  Thodupuzha,Idukki,ANTIGEN,Al Azhar Medical College & Hospital  Thodupuzha,Private Lab,9.9347861,76.723261
+103,St. John's Hospital,St. John's Hospital  Kattappana South P.O.  Idukki .,Idukki,ANTIGEN,St. John's Hospital  Kattappana South P.O.  Idukki .  Idukki,Private Lab,9.7470130,77.109715
+104,Alphonsa Hospital,Alphonsa Hospital  Murickassery  Idukki,Idukki,ANTIGEN,Alphonsa Hospital  Murickassery  Idukki  Idukki,Private Lab,9.9135049,77.009209
+105,Morning Star Medical Centre,Morning Star Medical Centre  Nazareth Hill  Adimaly  Idukki,Idukki,ANTIGEN,Morning Star Medical Centre  Nazareth Hill  Adimaly  Idukki  Idukki,Private Lab,9.9921770,77.043171
+106,Mundakayam Medical Trust Hospital,Mundakayam Medical Trust Hospital  Idukki,Idukki,ANTIGEN,Mundakayam Medical Trust Hospital  Idukki  Idukki,Private Lab,9.5351440,76.908997
+107,Karuna Hospital,Karuna Hospital  Thodupuzha  Idukki,Idukki,ANTIGEN,Karuna Hospital  Thodupuzha  Idukki  Idukki,Private Lab,9.8378009,76.746909
+108,SMART MEDIPLUS DIAGNOSTIC CENTRE,SMART MEDIPLUS DIAGNOSTIC CENTRE  Thodupuzha,Idukki,ANTIGEN,SMART MEDIPLUS DIAGNOSTIC CENTRE  Thodupuzha,Private Lab,9.9021417,76.724194
+109,Medical Trust Hospital,Medical Trust Hospital  Nedumkandam  Idukki,Idukki,ANTIGEN,Medical Trust Hospital  Nedumkandam  Idukki  Idukki,Private Lab,9.5351440,76.908997
+110,SMART MEDIPLUS DIAGNOSTIC CENTRE,SMART MEDIPLUS DIAGNOSTIC CENTRE  KALLIKUZHY BUILDING  LIBRARY ROAD   ADIMALY,Idukki,ANTIGEN,SMART MEDIPLUS DIAGNOSTIC CENTRE  KALLIKUZHY BUILDING  LIBRARY ROAD   ADIMALY,Private Lab,10.0128639,76.958869
+111,Aster MIMS Kannur,Aster MIMS Kannur,Kannur,ANTIGEN,Aster MIMS Kannur  Kannur,Private Lab,11.8391384,75.429997
+112,St.Martin De Porres Hospital,St.Martin De Porres Hospital Cherukunnu Kannur,Kannur,ANTIGEN,St.Martin De Porres Hospital Cherukunnu Kannur  Kannur,Private Lab,11.9945472,75.313369
+113,Superspeciality Lab,Superspeciality Lab  Payyoli,Kannur,ANTIGEN,Superspeciality Lab  Payyoli  Kannur,Private Lab,11.7812930,75.515001
+114,THE LAB,THE LAB  LABORATORY AND SCANNING CENTRE  RAILWAY STATION ROAD  PAZHAYANGADI  KANNUR,Kannur,ANTIGEN,THE LAB  LABORATORY AND SCANNING CENTRE  RAILWAY STATION ROAD  PAZHAYANGADI  KANNUR  Kannur,Private Lab,11.8629460,75.358829
+115,Indira Gandhi Co-OP Hospital,Indira Gandhi Co-OP Hospital Manjodi  Thalassery  Kannur,Kannur,ANTIGEN,Indira Gandhi Co-OP Hospital Manjodi  Thalassery  Kannur  Kannur,Private Lab,11.7468930,75.506134
+116,AKG Memorial Co operative Hospital,AKG Memorial Co operative Hospital  Kannur,Kannur,ANTIGEN,AKG Memorial Co operative Hospital  Kannur,Private Lab,11.8851528,75.373044
+117,THE PAYYANUR CO OPERATIVE HOSPITAL SOCIETY LTD,THE PAYYANUR CO OPERATIVE HOSPITAL SOCIETY LTD  SOUTH BAZAR  PAYYANUR  PAYYANUR PO  KANNUR,Kannur,ANTIGEN,THE PAYYANUR CO OPERATIVE HOSPITAL SOCIETY LTD  SOUTH BAZAR  PAYYANUR  PAYYANUR PO  KANNUR  Kannur,Private Lab,11.8190470,75.548752
+118,LEO CLINICAL DIAGNOSTIC CENTRE LLP,LEO CLINICAL DIAGNOSTIC CENTRE LLP  Opp G mall  South Bazar Kannur,Kannur,ANTIGEN,LEO CLINICAL DIAGNOSTIC CENTRE LLP  Opp G mall  South Bazar Kannur  Kannur,Private Lab,11.8629460,75.358829
+119,CnC Hitech Lab,CnC Hitech Lab  Nr sub registrar office  Eripuram  Payangadi  Kannur,Kannur,ANTIGEN,CnC Hitech Lab  Nr sub registrar office  Eripuram  Payangadi  Kannur,Private Lab,12.0298778,75.265967
+120,Gimcare Hospital,Gimcare Hospital Building No: 32/1094/1-8  Chala Bypass  Thottada (PO  Kannur,Kannur,ANTIGEN,Gimcare Hospital Building No: 32/1094/1-8  Chala Bypass  Thottada (PO  Kannur  Kannur,Private Lab,11.8481990,75.426877
+121,Taliparamba Co-operative Hospital Society,Taliparamba Co-operative Hospital Society  Taliparamba,Kannur,ANTIGEN,Taliparamba Co-operative Hospital Society  Taliparamba  Kannur,Private Lab,12.0435900,75.372840
+122,Lourde Hospital,Lourde Hospital  Thalliparamba  Kannur,Kannur,ANTIGEN,Lourde Hospital  Thalliparamba  Kannur  Kannur,Private Lab,12.0415440,75.355537
+123,Koyili Hospital,Koyili Hospital  Talap  Kannur,Kannur,ANTIGEN,Koyili Hospital  Talap  Kannur  Kannur,Private Lab,11.8871937,75.370810
+124,Dhanalakshmi Hospital Pvt Ltd,Dhanalakshmi Hospital Pvt Ltd  Kannothumchal Road  Kannur,Kannur,ANTIGEN,Dhanalakshmi Hospital Pvt Ltd  Kannothumchal Road  Kannur  Kannur,Private Lab,11.8629460,75.358829
+125,Amala Multi Specialty Hospital,Amala Multi Specialty Hospital  Keezhur  Iritty  Kannur,Kannur,ANTIGEN,Amala Multi Specialty Hospital  Keezhur  Iritty  Kannur  Kannur,Private Lab,11.9797300,75.671376
+126,Specialty Hospital,Specialty Hospital  Thana  Kannur,Kannur,ANTIGEN,Specialty Hospital  Thana  Kannur  Kannur,Private Lab,11.8776130,75.372761
+127,Christuraj Hospital,Christuraj Hospital  Thokkilangadi  Nirmalgiri  Koothuparamba  Kannur,Kannur,ANTIGEN,Christuraj Hospital  Thokkilangadi  Nirmalgiri  Koothuparamba  Kannur  Kannur,Private Lab,11.8776130,75.372761
+128,Neethi Lab,Neethi Lab   Thalassery  Kannur,Kannur,ANTIGEN,Neethi Lab   Thalassery  Kannur  Kannur,Private Lab,11.9302670,75.572625
+129,Josgiri Hospital,Josgiri Hospital  Thalassery  Kannur,Kannur,ANTIGEN,Josgiri Hospital  Thalassery  Kannur  Kannur,Private Lab,11.7593082,75.478770
+130,St Sebastian's Hospital. Kakkayamchal,St Sebastian's Hospital. Kakkayamchal  Cherupuzha  Kannur,Kannur,ANTIGEN,St Sebastian's Hospital. Kakkayamchal  Cherupuzha  Kannur,Private Lab,12.2692417,75.356253
+131,Saba Hospital,Saba Hospital  Near Gandhi Park  Payyannur,Kannur,ANTIGEN,Saba Hospital  Near Gandhi Park  Payyannur  Kannur,Private Lab,11.8229460,75.503176
+132,Tellicherry Co-Operative Hospital,Tellicherry Co-Operative Hospital  Kannur,Kannur,ANTIGEN,Tellicherry Co-Operative Hospital  Kannur  Kannur,Private Lab,11.7641020,75.479678
+133,Thalassery Mission Hospital Pvt Ltd,Thalassery Mission Hospital Pvt Ltd  Goods Shed Road  Thalassery  Kannur,Kannur,ANTIGEN,Thalassery Mission Hospital Pvt Ltd  Goods Shed Road  Thalassery  Kannur  Kannur,Private Lab,12.1006000,75.214670
+134,Sreechand Speciality Hospitals Pvt.Ltd,Sreechand Speciality Hospitals Pvt.Ltd  Near SN Park Kannur,Kannur,ANTIGEN,Sreechand Speciality Hospitals Pvt.Ltd  Near SN Park Kannur  Kannur,Private Lab,11.8629460,75.358829
+135,THE LAB,THE LAB  Green Valley  Kambil  Kannur  Kerala,Kannur,ANTIGEN,THE LAB  Green Valley  Kambil  Kannur  Kerala  Kannur,Private Lab,9.6760920,76.891754
+136,City Institute of Medical Sciences Kerala Pvt. Ltd- Sunrise Hospital,City Institute of Medical Sciences Kerala Pvt. Ltd- Sunrise Hospital Kanhangad Kasaragod,Kannur,ANTIGEN,City Institute of Medical Sciences Kerala Pvt. Ltd- Sunrise Hospital Kanhangad Kasaragod,Private Lab,12.3324250,75.095278
+137,KDC LAB,KDC LAB  Opp. Little Flower School  Puthiyakotta Kanhnangad  Kasargode,Kasaragod,ANTIGEN,KDC LAB  Opp. Little Flower School  Puthiyakotta Kanhnangad  Kasargode  Kasaragod,Private Lab,12.3481040,75.094012
+138,DDRC SRL,DDRC SRL Opposite to Malabar Gold & Padma Clinic  Kanhangad  Kasaragod,Kasaragod,ANTIGEN,DDRC SRL Opposite to Malabar Gold & Padma Clinic  Kanhangad  Kasaragod  Kasaragod,Private Lab,9.9782850,76.578955
+139,INDIAN DIAGNOSTIC LABORATORY(IDL,INDIAN DIAGNOSTIC LABORATORY(IDL  KOTTACHERRY KANHANGAD,Kasaragod,ANTIGEN,INDIAN DIAGNOSTIC LABORATORY(IDL  KOTTACHERRY KANHANGAD,Private Lab,12.3236278,75.086967
+140,Kasargod Institute of Medical Science,Kasargod Institute of Medical Science Ashwini Nagar  Kasargod,Kasaragod,ANTIGEN,Kasargod Institute of Medical Science Ashwini Nagar  Kasargod  Kasaragod,Private Lab,12.6761260,74.988872
+141,Carewell Hospital & Research Centre,Carewell Hospital & Research Centre  Nullipady  Kasaragod,Kasaragod,ANTIGEN,Carewell Hospital & Research Centre  Nullipady  Kasaragod  Kasaragod,Private Lab,12.5114869,74.998179
+142,DDC LAB,DDC LAB TIGER HILLS  PULIKKUNNU ROAD  KASARAGOD,Kasaragod,ANTIGEN,DDC LAB TIGER HILLS  PULIKKUNNU ROAD  KASARAGOD  Kasaragod,Private Lab,12.6153490,74.940350
+143,Janardan Hospital,Janardan Hospital  Bank Road  Kasaragod,Kasaragod,ANTIGEN,Janardan Hospital  Bank Road  Kasaragod  Kasaragod,Private Lab,12.6153490,74.940350
+144,Malik Deeanar Charitable Hospital,Malik Deeanar Charitable Hospital  Thalangara  Kasaragod,Kasaragod,ANTIGEN,Malik Deeanar Charitable Hospital  Thalangara  Kasaragod,Private Lab,12.4849278,74.991478
+145,Neethi Lab,Neethi Lab  Kasargode  Bank Road Kasargode,Kasaragod,ANTIGEN,Neethi Lab  Kasargode  Bank Road Kasargode  Kasaragod,Private Lab,12.6153490,74.940350
+146,Neethi Lab,Neethi Lab  Near Regal Tourist Home  Railway Station Road  Kanhangad,Kasaragod,ANTIGEN,Neethi Lab  Near Regal Tourist Home  Railway Station Road  Kanhangad  Kasaragod,Private Lab,12.3064600,75.100393
+147,Devi Clinical Laboratory,Devi Clinical Laboratory  Kollam,Kasaragod,ANTIGEN,Devi Clinical Laboratory  Kollam,Private Lab,8.8869000,76.588714
+148,EK Nayanar Memorial,EK Nayanar Memorial  Co Operative Hospital  Chengala  Kasargod,Kasaragod,ANTIGEN,EK Nayanar Memorial  Co Operative Hospital  Chengala  Kasargod  Kasaragod,Private Lab,12.5101170,75.035313
+149,UNITED MEDICAL CENTER,UNITED MEDICAL CENTER  KOTEKANI ROAD  KASARAGOD,Kasaragod,ANTIGEN,UNITED MEDICAL CENTER  KOTEKANI ROAD  KASARAGOD  Kasaragod,Private Lab,12.6153490,74.940350
+150,G K CLINICAL LABORATORY,G K CLINICAL LABORATORY  MADHAVA PAI BUILDING   BADIADKA ROAD   KUMBALA  KASARAGOD,Kasaragod,ANTIGEN,G K CLINICAL LABORATORY  MADHAVA PAI BUILDING   BADIADKA ROAD   KUMBALA  KASARAGOD  Kasaragod,Private Lab,12.5837760,75.072783
+151,DDRC SRL Diagnostics Pvt Ltd,DDRC SRL Diagnostics Pvt Ltd  Chinnakkada  Kollam.,Kollam,ANTIGEN,DDRC SRL Diagnostics Pvt Ltd  Chinnakkada  Kollam.,Private Lab,8.8880972,76.586231
+152,Travancore Medicity Medical College,Travancore Medicity Medical College  Kollam,Kollam,ANTIGEN,Travancore Medicity Medical College  Kollam  Kollam,Private Lab,8.8752160,76.644960
+153,Holy cross Hospital,Holy cross Hospital  Kottiyam,Kollam,ANTIGEN,Holy cross Hospital  Kottiyam  Kollam,Private Lab,8.8984200,76.861470
+154,Meditrina hospital laboratory,Meditrina hospital laboratory Ayathil  Kollam,Kollam,ANTIGEN,Meditrina hospital laboratory Ayathil  Kollam   Kollam,Private Lab,8.8956830,76.600777
+155,Matha Medical Centre,Matha Medical Centre Mathilil Kollam,Kollam,ANTIGEN,Matha Medical Centre Mathilil Kollam  Kollam,Private Lab,8.9866400,76.534130
+156,DDRC SRL Diagnostics Pvt. Ltd.,DDRC SRL Diagnostics Pvt. Ltd.   City Tower  Kottarakkara  Kollam,Kollam,ANTIGEN,DDRC SRL Diagnostics Pvt. Ltd.   City Tower  Kottarakkara  Kollam,Private Lab,9.0056306,76.777692
+157,Dr Nair's Hospital,Dr Nair's Hospital  Kollam,Kollam,ANTIGEN,Dr Nair's Hospital  Kollam  Kollam,Private Lab,8.8948510,76.598888
+158,NS Memorial Institute of Medical Sciences,NS Memorial Institute of Medical Sciences  Palathara  Kollam,Kollam,ANTIGEN,NS Memorial Institute of Medical Sciences  Palathara  Kollam  Kollam,Private Lab,8.8898120,76.597863
+159,DDRC SRL Diagnostic Services Pvt Ltd,DDRC SRL Diagnostic Services Pvt Ltd  Sri sri building  Parippally  Kollam,Kollam,ANTIGEN,DDRC SRL Diagnostic Services Pvt Ltd  Sri sri building  Parippally  Kollam,Private Lab,8.8126194,76.753131
+160,KIMS Kollam Multispecialty Hospital India Pvt. Ltd.,KIMS Kollam Multispecialty Hospital India Pvt. Ltd.,Kollam,ANTIGEN,KIMS Kollam Multispecialty Hospital India Pvt. Ltd.  Kollam,Private Lab,8.9062710,76.766212
+161,Padmavathy Medical Foundation,Padmavathy Medical Foundation Manakkara Sasthamcotta P.O. Kollam,Kollam,ANTIGEN,Padmavathy Medical Foundation Manakkara Sasthamcotta P.O. Kollam  Kollam,Private Lab,8.8688010,76.643791
+162,St Josephs Mission Hospital Anchal Kollam,St Josephs Mission Hospital Anchal Kollam,Kollam,ANTIGEN,St Josephs Mission Hospital Anchal Kollam  Kollam,Private Lab,8.9294212,76.918039
+163,UPASANA HOSPITAL,UPASANA HOSPITAL  Q S Road Kollam,Kollam,ANTIGEN,UPASANA HOSPITAL  Q S Road Kollam  Kollam,Private Lab,8.8887660,76.596861
+164,BIOVISION CLINICAL LAB,BIOVISION CLINICAL LAB  NEAR SBI  MC ROAD  VALAKOM  KOTTARAKKARA,Kollam,ANTIGEN,BIOVISION CLINICAL LAB  NEAR SBI  MC ROAD  VALAKOM  KOTTARAKKARA  Kollam,Private Lab,8.8956830,76.600777
+165,Quality Care Diagnostic Centre,Quality Care Diagnostic Centre  Town Plaza  Pulamon  Kottarakkara,Kollam,ANTIGEN,Quality Care Diagnostic Centre  Town Plaza  Pulamon  Kottarakkara  Kollam,Private Lab,9.0180060,76.924767
+166,VIJAYA HOSPITAL,VIJAYA HOSPITAL PULAMON P O KOTTARAKKARA,Kollam,ANTIGEN,VIJAYA HOSPITAL PULAMON P O KOTTARAKKARA  Kollam,Private Lab,8.8875220,76.610283
+167,Bishop benziger Hospital,Bishop benziger Hospital  Beach Road  Kollam,Kollam,ANTIGEN,Bishop benziger Hospital  Beach Road  Kollam  Kollam,Private Lab,8.8811141,76.593203
+168,Poyanil Hospital Punalur,Poyanil Hospital Punalur,Kollam,ANTIGEN,Poyanil Hospital Punalur  Kollam,Private Lab,9.0201408,76.909860
+169,Pazhaveedu Medical Care Specialty Hospital,Pazhaveedu Medical Care Specialty Hospital  Pulamon PO  Kottarakkara,Kollam,ANTIGEN,Pazhaveedu Medical Care Specialty Hospital  Pulamon PO  Kottarakkara  Kollam,Private Lab,8.9005460,76.588207
+170,DDRC SRL Diagnostics Private Limited,DDRC SRL Diagnostics Private Limited Gandhi Nagar Kottayam,Kollam,ANTIGEN,DDRC SRL Diagnostics Private Limited Gandhi Nagar Kottayam,Private Lab,9.6254361,76.539456
+171,Azeezia Medical College Hospital,Azeezia Medical College Hospital  Meeyannoor,Kollam,ANTIGEN,Azeezia Medical College Hospital  Meeyannoor  Kollam,Private Lab,8.8895420,76.737682
+172,Bharath Hospital,Bharath Hospital  Kottayam,Kottayam,ANTIGEN,Bharath Hospital  Kottayam  Kottayam,Private Lab,9.5894925,76.519573
+173,St. Thomas Hospital,St. Thomas Hospital  Chethipuzha  Changanassery,Kottayam,ANTIGEN,St. Thomas Hospital  Chethipuzha  Changanassery  Kottayam,Private Lab,9.4625088,76.552347
+174,Little Lourdes Mission Hospital Kidangoor Kottayam,Little Lourdes Mission Hospital Kidangoor Kottayam,Kottayam,ANTIGEN,Little Lourdes Mission Hospital Kidangoor Kottayam,Private Lab,9.6835889,76.612219
+175,HOLY GHOST MISSION HOSPITAL,HOLY GHOST MISSION HOSPITAL  KOTTAYAM,Kottayam,ANTIGEN,HOLY GHOST MISSION HOSPITAL  KOTTAYAM  Kottayam,Private Lab,9.7572053,76.499766
+176,Marian Medical Centre,Marian Medical Centre  Arunapuram P.O Pala,Kottayam,ANTIGEN,Marian Medical Centre  Arunapuram P.O Pala  Kottayam,Private Lab,9.5935340,76.529395
+177,MERCY HOSPITAL POTHY,MERCY HOSPITAL POTHY Thalayolaparambu,Kottayam,ANTIGEN,MERCY HOSPITAL POTHY Thalayolaparambu  Kottayam,Private Lab,9.6176950,76.707593
+178,Marsleeva Medicity Palai,Marsleeva Medicity Palai,Kottayam,ANTIGEN,Marsleeva Medicity Palai  Kottayam,Private Lab,9.6798210,76.644120
+179,SH Medical Centre,SH Medical Centre  Nagampadom  Kottayam,Kottayam,ANTIGEN,SH Medical Centre  Nagampadom  Kottayam  Kottayam,Private Lab,9.5935340,76.529395
+180,Aravinda Hospitals,Aravinda Hospitals  Ponkunnam  Kottayam,Kottayam,ANTIGEN,Aravinda Hospitals  Ponkunnam  Kottayam,Private Lab,9.5577250,76.764461
+181,Indo American Hospital,Indo American Hospital  Kottayam.,Kottayam,ANTIGEN,Indo American Hospital  Kottayam.  Kottayam,Private Lab,9.7216807,76.392581
+182,Mannam Memorial NSS Medical Mission Hospital,Mannam Memorial NSS Medical Mission Hospital  Karukachal  Kottayam,Kottayam,ANTIGEN,Mannam Memorial NSS Medical Mission Hospital  Karukachal  Kottayam,Private Lab,9.4994306,76.633444
+183,KIMS BELLEROSE INSTITUTE OF MEDICAL SCIENCES,KIMS BELLEROSE INSTITUTE OF MEDICAL SCIENCES Thoothooty Junction  Kudamaloor P.O  Kottayam,Kottayam,ANTIGEN,KIMS BELLEROSE INSTITUTE OF MEDICAL SCIENCES Thoothooty Junction  Kudamaloor P.O  Kottayam  Kottayam,Private Lab,9.5882530,76.529574
+184,Carmel Medical Centre,Carmel Medical Centre  Kizhathadiyoor PO Pala  Kottayam,Kottayam,ANTIGEN,Carmel Medical Centre  Kizhathadiyoor PO Pala  Kottayam  Kottayam,Private Lab,9.7060960,76.662176
+185,IHM Hospital,IHM Hospital  Bharananganam  Kottayam,Kottayam,ANTIGEN,IHM Hospital  Bharananganam  Kottayam  Kottayam,Private Lab,9.7047620,76.719249
+186,Velankanni Matha Private Hospitals Pvt Ltd,Velankanni Matha Private Hospitals Pvt Ltd  Thellakom  Kottayam,Kottayam,ANTIGEN,Velankanni Matha Private Hospitals Pvt Ltd  Thellakom  Kottayam  Kottayam,Private Lab,9.5929890,76.521813
+187,Indo American Hospital West Gate,Indo American Hospital West Gate  Vaikom Kottayam,Kottayam,ANTIGEN,Indo American Hospital West Gate  Vaikom Kottayam  Kottayam,Private Lab,9.7583290,76.398802
+188,Mary Queens Mission Hospital,Mary Queens Mission Hospital  Kanjirappally  Kottayam,Kottayam,ANTIGEN,Mary Queens Mission Hospital  Kanjirappally  Kottayam  Kottayam,Private Lab,9.5580439,76.813982
+189,M U M Hospital Monipally,M U M Hospital Monipally  Kottayam,Kottayam,ANTIGEN,M U M Hospital Monipally  Kottayam  Kottayam,Private Lab,9.8113050,76.563539
+190,St. Vincent Hospital,St. Vincent Hospital  Kuravilangadu,Kottayam,ANTIGEN,St. Vincent Hospital  Kuravilangadu  Kottayam,Private Lab,9.7513630,76.562982
+191,Caritas Hospital,Caritas Hospital Thellakom  Kottayam,Kottayam,ANTIGEN,Caritas Hospital Thellakom  Kottayam  Kottayam,Private Lab,9.6452500,76.549316
+192,Mitera Hospitals Pvt Ltd,Mitera Hospitals Pvt Ltd  Thellakom. P O  Kottayam,Kottayam,ANTIGEN,Mitera Hospitals Pvt Ltd  Thellakom. P O  Kottayam  Kottayam,Private Lab,9.5929890,76.521813
+193,PMC Hospital,PMC Hospital  Erattupetta  Kottayam,Kottayam,ANTIGEN,PMC Hospital  Erattupetta  Kottayam  Kottayam,Private Lab,9.6856663,76.782116
+194,Base Hospital,Base Hospital  Manarcadu  Kottayam,Kottayam,ANTIGEN,Base Hospital  Manarcadu  Kottayam  Kottayam,Private Lab,9.5909420,76.578054
+195,Paret Mar Ivanios Hospital,Paret Mar Ivanios Hospital  Puthuppally Kottayam,Kottayam,ANTIGEN,Paret Mar Ivanios Hospital  Puthuppally Kottayam  Kottayam,Private Lab,9.5531815,76.566679
+196,Mar Kavukatt Memorial Hospital,Mar Kavukatt Memorial Hospital Pravithanam Kottayam,Kottayam,ANTIGEN,Mar Kavukatt Memorial Hospital Pravithanam Kottayam  Kottayam,Private Lab,9.7473158,76.703386
+197,Cherupushpam Trust Hospital,Cherupushpam Trust Hospital  Pala  Kottayam,Kottayam,ANTIGEN,Cherupushpam Trust Hospital  Pala  Kottayam  Kottayam,Private Lab,9.7620570,76.564662
+198,DSH Hospital,DSH Hospital  Kalatipady  Kottayam,Kottayam,ANTIGEN,DSH Hospital  Kalatipady  Kottayam  Kottayam,Private Lab,9.6452500,76.549316
+199,Assissi Hospital,Assissi Hospital  Mukkoottuthura  Erumeli  Kottayam,Kottayam,ANTIGEN,Assissi Hospital  Mukkoottuthura  Erumeli  Kottayam  Kottayam,Private Lab,9.8215180,76.431201
+200,Rani Hospital,Rani Hospital  Kanjirappally  Kottayam,Kottayam,ANTIGEN,Rani Hospital  Kanjirappally  Kottayam  Kottayam,Private Lab,9.5592747,76.801653
+201,Dianova Laboratories,Dianova Laboratories   Gandhi Nagar  Kottayam,Kottayam,ANTIGEN,Dianova Laboratories   Gandhi Nagar  Kottayam  Kottayam,Private Lab,9.6297780,76.775440
+202,Dharmagiri St.Joseph Hospital,Dharmagiri St.Joseph Hospital  Mukkam,Kottayam,ANTIGEN,Dharmagiri St.Joseph Hospital  Mukkam,Private Lab,11.3309944,75.985864
+203,Alphonsa Eye Hospital,Alphonsa Eye Hospital  Pala,Kottayam,ANTIGEN,Alphonsa Eye Hospital  Pala  Kottayam,Private Lab,9.7088081,76.676523
+204,Kadampuzha Hospital,Kadampuzha Hospital  Kanjirappally,Kottayam,ANTIGEN,Kadampuzha Hospital  Kanjirappally  Kottayam,Private Lab,9.6452500,76.549316
+205,Udayagiri Multispecialty Hospital,Udayagiri Multispecialty Hospital  Perunna  Changanassery,Kottayam,ANTIGEN,Udayagiri Multispecialty Hospital  Perunna  Changanassery  Kottayam,Private Lab,9.4442830,76.545913
+206,Vaikom Sathyagraha Memorial hospital,Vaikom Sathyagraha Memorial hospital  Kottayam,Kottayam,ANTIGEN,Vaikom Sathyagraha Memorial hospital  Kottayam  Kottayam,Private Lab,9.7491342,76.390068
+207,NSS Medical Mission Hospital,NSS Medical Mission Hospital  Perunna  Changanacherry  Kottayam,Kottayam,ANTIGEN,NSS Medical Mission Hospital  Perunna  Changanacherry  Kottayam  Kottayam,Private Lab,9.4390910,76.543793
+208,Meitra Hospital,Meitra Hospital  Kozhikode,Kozhikode,ANTIGEN,Meitra Hospital  Kozhikode  Kozhikode,Private Lab,11.3017425,75.774697
+209,Baby memorial hospital,Baby memorial hospital  Kozhikode,Kozhikode,ANTIGEN,Baby memorial hospital  Kozhikode  Kozhikode,Private Lab,11.2600608,75.792059
+210,IQRAA,IQRAA  Kozhikode,Kozhikode,ANTIGEN,IQRAA  Kozhikode  Kozhikode,Private Lab,11.2863772,75.798288
+211,Malabar multispeciality centre,Malabar multispeciality centre Eranhipalam,Kozhikode,ANTIGEN,Malabar multispeciality centre Eranhipalam  Kozhikode,Private Lab,11.1417890,75.968945
+212,Nirmala Hospital,Nirmala Hospital  Calicut,Kozhikode,ANTIGEN,Nirmala Hospital  Calicut  Kozhikode,Private Lab,11.2918040,75.824588
+213,Starcare Hospital,Starcare Hospital  Kozhikode,Kozhikode,ANTIGEN,Starcare Hospital  Kozhikode  Kozhikode,Private Lab,11.2690819,75.809456
+214,Saroj Diagnostic Laboratory,Saroj Diagnostic Laboratory  Malaparamba  Kozhikode,Kozhikode,ANTIGEN,Saroj Diagnostic Laboratory  Malaparamba  Kozhikode,Private Lab,11.2882000,75.800647
+215,ASTER MIMS Kozhikode,ASTER MIMS Kozhikode,Kozhikode,ANTIGEN,ASTER MIMS Kozhikode  Kozhikode,Private Lab,11.2785960,75.805073
+216,IQRAA Community hospital thottilpalam,IQRAA Community hospital thottilpalam  Kozhikode,Kozhikode,ANTIGEN,IQRAA Community hospital thottilpalam  Kozhikode,Private Lab,11.6730417,75.772111
+217,AZA DIAGNOSTIC CENTRE,AZA DIAGNOSTIC CENTRE,Kozhikode,ANTIGEN,AZA DIAGNOSTIC CENTRE,Private Lab,11.2555028,75.788978
+218,MicroHealth Laboratories,MicroHealth Laboratories  Arayidathupalam  Kozhikode,Kozhikode,ANTIGEN,MicroHealth Laboratories  Arayidathupalam  Kozhikode  Kozhikode,Private Lab,11.2785960,75.805073
+219,Santhi Hospital,Santhi Hospital  Omassery  Kozhikode,Kozhikode,ANTIGEN,Santhi Hospital  Omassery  Kozhikode  Kozhikode,Private Lab,11.3626369,75.964657
+220,Chest Hospital,Chest Hospital  Pavamani Road  Kozhikode,Kozhikode,ANTIGEN,Chest Hospital  Pavamani Road  Kozhikode  Kozhikode,Private Lab,11.2551900,75.784093
+221,KMCT Medical College Hospital,KMCT Medical College Hospital Manassery(P Mukkam(Via,Kozhikode,ANTIGEN,KMCT Medical College Hospital Manassery(P Mukkam(Via  Kozhikode,Private Lab,11.3261080,75.970620
+222,Asten Specialty Orthopaedic Hospital,Asten Specialty Orthopaedic Hospital  Pantheerankavu  Kozhikode,Kozhikode,ANTIGEN,Asten Specialty Orthopaedic Hospital  Pantheerankavu  Kozhikode,Private Lab,11.2317639,75.851492
+223,Malabar Medical College & Research Centre,Malabar Medical College & Research Centre  Kozhikode,Kozhikode,ANTIGEN,Malabar Medical College & Research Centre  Kozhikode  Kozhikode,Private Lab,11.4335599,75.776253
+224,DDRC SRL Diagnostics Pvt Ltd,DDRC SRL Diagnostics Pvt Ltd  Sana Tower  Devagiri College Road  Medical College PO. Calict,Kozhikode,ANTIGEN,DDRC SRL Diagnostics Pvt Ltd  Sana Tower  Devagiri College Road  Medical College PO. Calict,Private Lab,11.2698917,75.837181
+225,Koduvally Institute of Medical Science,Koduvally Institute of Medical Science  Pvt  Ltd,Kozhikode,ANTIGEN,Koduvally Institute of Medical Science  Pvt  Ltd  Kozhikode,Private Lab,11.8018470,76.005711
+226,EMS Co-op hospital,EMS Co-op hospital  Mukkam,Kozhikode,ANTIGEN,EMS Co-op hospital  Mukkam  Kozhikode,Private Lab,11.3259450,75.991861
+227,Aliya Diagnostic and Research Centre,Aliya Diagnostic and Research Centre Medical College  Kozhikode,Kozhikode,ANTIGEN,Aliya Diagnostic and Research Centre Medical College  Kozhikode  Kozhikode,Private Lab,11.5546210,75.849134
+228,Asha Hospital,Asha Hospital  Vadakara  Kozhikode,Kozhikode,ANTIGEN,Asha Hospital  Vadakara  Kozhikode  Kozhikode,Private Lab,11.6046063,75.589840
+229,ASWINI DIAGNOSTIC SERVICES,ASWINI DIAGNOSTIC SERVICES  Chinthavalappu KOZHIKODE,Kozhikode,ANTIGEN,ASWINI DIAGNOSTIC SERVICES  Chinthavalappu KOZHIKODE,Private Lab,11.2517389,75.788028
+230,Cradle Calicut,Cradle Calicut  Maternity Care Pvt Limited  Calicut,Kozhikode,ANTIGEN,Cradle Calicut  Maternity Care Pvt Limited  Calicut  Kozhikode,Private Lab,11.5538870,75.843912
+231,MVR Cancer Centre & Research Institute,MVR Cancer Centre & Research Institute Calicut,Kozhikode,ANTIGEN,MVR Cancer Centre & Research Institute Calicut  Kozhikode,Private Lab,11.2945142,75.946817
+232,RED CRESCENT HOSPITAL,RED CRESCENT HOSPITAL  Feroke,Kozhikode,ANTIGEN,RED CRESCENT HOSPITAL  Feroke  Kozhikode,Private Lab,11.1825480,75.848230
+233,R Cell Diagnostics,R Cell Diagnostics  Arayidathupalam  Kozhikode,Kozhikode,ANTIGEN,R Cell Diagnostics  Arayidathupalam  Kozhikode  Kozhikode,Private Lab,11.2785960,75.805073
+234,Metromed International Cardiac Centre,Metromed International Cardiac Centre  Thondayad Bypass Road  G A College P O Kozhikode  Kerala,Kozhikode,ANTIGEN,Metromed International Cardiac Centre  Thondayad Bypass Road  G A College P O Kozhikode  Kerala  Kozhikode,Private Lab,11.2453560,75.836078
+235,KARUNYA HEALTH CARE,KARUNYA HEALTH CARE  Jafar Khan Colony road  Calicut -6,Kozhikode,ANTIGEN,KARUNYA HEALTH CARE  Jafar Khan Colony road  Calicut -6  Kozhikode,Private Lab,11.4798020,75.834387
+236,Ceeyam Hospital,Ceeyam Hospital  V O Road  Vatakara,Kozhikode,ANTIGEN,Ceeyam Hospital  V O Road  Vatakara  Kozhikode,Private Lab,11.2785960,75.805073
+237,Care Reference Laboratories.,Care Reference Laboratories.  Velliparamba Calicut,Kozhikode,ANTIGEN,Care Reference Laboratories.  Velliparamba Calicut  Kozhikode,Private Lab,11.3935580,75.725133
+238,Lisa Hospital,Lisa Hospital Thiruvampadi  Kozhikode,Kozhikode,ANTIGEN,Lisa Hospital Thiruvampadi  Kozhikode  Kozhikode,Private Lab,11.3615850,76.012716
+239,EMS Memorial Co-operative Hospital,EMS Memorial Co-operative Hospital  Perambra  Kozhikode,Kozhikode,ANTIGEN,EMS Memorial Co-operative Hospital  Perambra  Kozhikode  Kozhikode,Private Lab,11.4445660,75.694225
+240,IQRAA Community Clinic,IQRAA Community Clinic  Kallai  Calicut,Kozhikode,ANTIGEN,IQRAA Community Clinic  Kallai  Calicut  Kozhikode,Private Lab,11.4798020,75.834387
+241,Micro Health Laboratories,Micro Health Laboratories  MP Tower  Next to Lavanya Plaza  Near Taluk Hospital  Thamarassery  Kozhikode,Kozhikode,ANTIGEN,Micro Health Laboratories  MP Tower  Next to Lavanya Plaza  Near Taluk Hospital  Thamarassery  Kozhikode,Private Lab,11.2583139,75.794683
+242,Fathima Hospital,Fathima Hospital Bank Road Calicut,Kozhikode,ANTIGEN,Fathima Hospital Bank Road Calicut  Kozhikode,Private Lab,11.4798020,75.834387
+243,R.M. HOSPITAL,R.M. HOSPITAL BEYPORE CALICUT,Kozhikode,ANTIGEN,R.M. HOSPITAL BEYPORE CALICUT  Kozhikode,Private Lab,11.1767420,75.807030
+244,Doctors Lab,Doctors Lab  Payyoli  Kozhikode,Kozhikode,ANTIGEN,Doctors Lab  Payyoli  Kozhikode  Kozhikode,Private Lab,11.5159889,75.621230
+245,Amana Hospital,Amana Hospital  Adukath PO  Kozhikode,Kozhikode,ANTIGEN,Amana Hospital  Adukath PO  Kozhikode  Kozhikode,Private Lab,11.6519430,75.759923
+246,Vadakara Co operative Hospital,Vadakara Co operative Hospital  Kozhikode,Kozhikode,ANTIGEN,Vadakara Co operative Hospital  Kozhikode  Kozhikode,Private Lab,11.5896870,75.595315
+247,Amal Hospitals and Research Center,Amal Hospitals and Research Center  Perumalpuram  Thikoti  Kozhikode,Kozhikode,ANTIGEN,Amal Hospitals and Research Center  Perumalpuram  Thikoti  Kozhikode  Kozhikode,Private Lab,11.5068240,75.625010
+248,Dr.Scan Diagnostic Centre,Dr.Scan Diagnostic Centre  A Unit of Sreekumar&Abilash Healthcare Pvt Ltd Near Arayedathupalam Mavoor Road Kozhikode,Kozhikode,ANTIGEN,Dr.Scan Diagnostic Centre  A Unit of Sreekumar&Abilash Healthcare Pvt Ltd Near Arayedathupalam Mavoor Road Kozhikode  Kozhikode,Private Lab,11.2584740,75.795794
+249,DOCTORS LAB,DOCTORS LAB Near CHC Meladi  Perumal Puram  Thikkoti PO KOZHIKODE,Kozhikode,ANTIGEN,DOCTORS LAB Near CHC Meladi  Perumal Puram  Thikkoti PO KOZHIKODE,Private Lab,11.2596528,75.787283
+250,Micro Diagnostics,Micro Diagnostics  Opp: City Medicals  Near Old Bus Stand  Kuttiadi  Kozhikode,Kozhikode,ANTIGEN,Micro Diagnostics  Opp: City Medicals  Near Old Bus Stand  Kuttiadi  Kozhikode  Kozhikode,Private Lab,11.5155290,75.620442
+251,DOCTORS SPECIALTY LAB,DOCTORS SPECIALTY LAB Near Govt Taluk Hospital  Ballusery Mukku  Vattoli Bazar,Kozhikode,ANTIGEN,DOCTORS SPECIALTY LAB Near Govt Taluk Hospital  Ballusery Mukku  Vattoli Bazar  Kozhikode,Private Lab,11.3120650,75.828185
+252,TMH Hospital,TMH Hospital  Kottakadavu  Kadalundi  Kozhikode,Kozhikode,ANTIGEN,TMH Hospital  Kottakadavu  Kadalundi  Kozhikode  Kozhikode,Private Lab,11.1387853,75.837502
+253,MAK Hospitals Pvt Ltd,MAK Hospitals Pvt Ltd  Cheruvannur  Feroke- Post  Kozhikode,Kozhikode,ANTIGEN,MAK Hospitals Pvt Ltd  Cheruvannur  Feroke- Post  Kozhikode  Kozhikode,Private Lab,11.2785960,75.805073
+254,Korambayil Hospital and Diagnostic Centre Pvt Ltd,Korambayil Hospital and Diagnostic Centre Pvt Ltd  Manjeri,Kozhikode,ANTIGEN,Korambayil Hospital and Diagnostic Centre Pvt Ltd  Manjeri,Private Lab,11.1228556,76.125817
+255,Dharu Shifa,Dharu Shifa  Kallampara  Perumugham P O  Feroke  Kozhikode,Kozhikode,ANTIGEN,Dharu Shifa  Kallampara  Perumugham P O  Feroke  Kozhikode  Kozhikode,Private Lab,11.2706650,75.776255
+256,KIMS AL SHIFA,KIMS AL SHIFA  MALAPPURAM,Malappuram,ANTIGEN,KIMS AL SHIFA  MALAPPURAM  Malappuram,Private Lab,10.9845734,76.223811
+257,Edappal Hospitals,Edappal Hospitals  Malappuram,Malappuram,ANTIGEN,Edappal Hospitals  Malappuram  Malappuram,Private Lab,10.7820357,76.010801
+258,IQRAA Community Hospital Vazhakkad,IQRAA Community Hospital Vazhakkad  Malappuram,Malappuram,ANTIGEN,IQRAA Community Hospital Vazhakkad  Malappuram  Malappuram,Private Lab,11.2481080,75.950907
+259,IBNU SEENA MEDICAL CENTRE,IBNU SEENA MEDICAL CENTRE  Manjeri,Malappuram,ANTIGEN,IBNU SEENA MEDICAL CENTRE  Manjeri  Malappuram,Private Lab,11.1210480,76.114305
+260,Aster MIMS - Kottakkal,Aster MIMS - Kottakkal  Malappuram,Malappuram,ANTIGEN,Aster MIMS - Kottakkal  Malappuram  Malappuram,Private Lab,10.9960453,75.993841
+261,sukapuram Hospital,sukapuram Hospital  Edappal  Malappuram,Malappuram,ANTIGEN,sukapuram Hospital  Edappal  Malappuram  Malappuram,Private Lab,10.7789104,76.009465
+262,Nadakkavil Hospital,Nadakkavil Hospital  Perinthalmanna Road Valanchery  Malappuram,Malappuram,ANTIGEN,Nadakkavil Hospital  Perinthalmanna Road Valanchery  Malappuram  Malappuram,Private Lab,10.8935928,76.074929
+263,Nizar Hospital Pattambi Road Valanchery Malappuram,Nizar Hospital Pattambi Road Valanchery Malappuram,Malappuram,ANTIGEN,Nizar Hospital Pattambi Road Valanchery Malappuram  Malappuram,Private Lab,10.8858630,76.073973
+264,AL Salama Diagnostic Centre,AL Salama Diagnostic Centre  Tirur,Malappuram,ANTIGEN,AL Salama Diagnostic Centre  Tirur,Private Lab,10.9367583,75.936547
+265,Neethi Lab,Neethi Lab  Tirur  Near Govt Hospital  Thettammal Building  Tirur,Malappuram,ANTIGEN,Neethi Lab  Tirur  Near Govt Hospital  Thettammal Building  Tirur,Private Lab,10.9124639,75.922944
+266,S.H.Hospital,S.H.Hospital Manimooly P.O Nilambur Via  Malappuram,Malappuram,ANTIGEN,S.H.Hospital Manimooly P.O Nilambur Via  Malappuram  Malappuram,Private Lab,10.9748880,76.225415
+267,Al Madeena Institute of Medical Science Pvt Ltd. ALMAS Hospital,Al Madeena Institute of Medical Science Pvt Ltd. ALMAS Hospital  Kottakkal  Malappuram,Malappuram,ANTIGEN,Al Madeena Institute of Medical Science Pvt Ltd. ALMAS Hospital  Kottakkal  Malappuram  Malappuram,Private Lab,10.9959340,75.994065
+268,Alba Specialty Laboratory,Alba Specialty Laboratory Perinthalmanna Road  Valanchery,Malappuram,ANTIGEN,Alba Specialty Laboratory Perinthalmanna Road  Valanchery  Malappuram,Private Lab,11.0953860,76.120217
+269,DOCTORS SPECIALITY LABORATORY,DOCTORS SPECIALITY LABORATORY  OP GOVT HOSPITAL  TIRUR. MALAPPURAM,Malappuram,ANTIGEN,DOCTORS SPECIALITY LABORATORY  OP GOVT HOSPITAL  TIRUR. MALAPPURAM,Private Lab,10.9094778,75.919389
+270,Moulana Hospital,Moulana Hospital  Perinthalmanna  Malappuram,Malappuram,ANTIGEN,Moulana Hospital  Perinthalmanna  Malappuram  Malappuram,Private Lab,10.9764846,76.225599
+271,NIMS Hospital,NIMS Hospital  Wandoor  Malappuram,Malappuram,ANTIGEN,NIMS Hospital  Wandoor  Malappuram  Malappuram,Private Lab,11.1928814,76.244591
+272,Sreevalsam Institute of Medical Sciences,Sreevalsam Institute of Medical Sciences  Kololambu P.O  Naduvattom Edappal Malappuram,Malappuram,ANTIGEN,Sreevalsam Institute of Medical Sciences  Kololambu P.O  Naduvattom Edappal Malappuram  Malappuram,Private Lab,10.7848200,76.003650
+273,M K H Hospital,M K H Hospital  Thirurangadi  Malappuram,Malappuram,ANTIGEN,M K H Hospital  Thirurangadi  Malappuram  Malappuram,Private Lab,10.9845480,76.223818
+274,Maanu Memorial Hospital,Maanu Memorial Hospital Melakkam  Manjeri  Malappuram,Malappuram,ANTIGEN,Maanu Memorial Hospital Melakkam  Manjeri  Malappuram  Malappuram,Private Lab,11.1284550,76.116228
+275,Tirurangadi Medical Laboratory( A unit of Janatha Diagnostics,Tirurangadi Medical Laboratory( A unit of Janatha Diagnostics  Chemmad  P.O Tirurangadi  Malappuram,Malappuram,ANTIGEN,Tirurangadi Medical Laboratory( A unit of Janatha Diagnostics  Chemmad  P.O Tirurangadi  Malappuram  Malappuram,Private Lab,11.0276650,75.923390
+276,SUTHARYA HEALTHCARE AND DIAGNOSTICS,SUTHARYA HEALTHCARE AND DIAGNOSTICS  GOVINDAM ARCADE  MUTTUNGAL JUNCTION  PERINTHALMANNA  MALAPPURAM,Malappuram,ANTIGEN,SUTHARYA HEALTHCARE AND DIAGNOSTICS  GOVINDAM ARCADE  MUTTUNGAL JUNCTION  PERINTHALMANNA  MALAPPURAM  Malappuram,Private Lab,10.7887640,75.948330
+277,Ramdas Clinic and Nursing Home,Ramdas Clinic and Nursing Home  Perinthalmanna  Malappuram,Malappuram,ANTIGEN,Ramdas Clinic and Nursing Home  Perinthalmanna  Malappuram  Malappuram,Private Lab,10.9772920,76.201601
+278,Mother Hospital,Mother Hospital Areekode  Malappuram,Malappuram,ANTIGEN,Mother Hospital Areekode  Malappuram  Malappuram,Private Lab,11.2313406,76.037938
+279,MBH Hospital LLP,MBH Hospital LLP  Down Hill Post  Malappuram,Malappuram,ANTIGEN,MBH Hospital LLP  Down Hill Post  Malappuram  Malappuram,Private Lab,11.0450550,76.075837
+280,Mumtaz clinic and maternity home,Mumtaz clinic and maternity home  Pattambi road  Perintalmanna,Malappuram,ANTIGEN,Mumtaz clinic and maternity home  Pattambi road  Perintalmanna  Malappuram,Private Lab,10.9690030,76.225916
+281,Mooniyoor Nursing Home,Mooniyoor Nursing Home  Alinchuvadu  Mooniyoor P O Malappuram,Malappuram,ANTIGEN,Mooniyoor Nursing Home  Alinchuvadu  Mooniyoor P O Malappuram  Malappuram,Private Lab,11.1587390,76.054542
+282,BM hospital Nilambur,BM hospital Nilambur  Vk road  Nilambur  Malappuram,Malappuram,ANTIGEN,BM hospital Nilambur  Vk road  Nilambur  Malappuram  Malappuram,Private Lab,10.9761810,76.217235
+283,Malabar Hospital (P Ltd,Malabar Hospital (P Ltd  Manjeri  Malappuram,Malappuram,ANTIGEN,Malabar Hospital (P Ltd  Manjeri  Malappuram  Malappuram,Private Lab,11.1245290,76.110917
+284,EMS Memorial Co-operative Hospital & Research Centre Ltd,EMS Memorial Co-operative Hospital & Research Centre Ltd  Panambi  P.O. Perinthalmanna  Mallappuram,Malappuram,ANTIGEN,EMS Memorial Co-operative Hospital & Research Centre Ltd  Panambi  P.O. Perinthalmanna  Mallappuram  Malappuram,Private Lab,10.9948790,76.463271
+285,Daru Sifa Hospital,Daru Sifa Hospital  Kunnumpuram  Malappuram,Malappuram,ANTIGEN,Daru Sifa Hospital  Kunnumpuram  Malappuram,Private Lab,11.0828750,75.951378
+286,Al Abeer Hospital,Al Abeer Hospital  Kizhisseri  Kuzhimana  Malappuram,Malappuram,ANTIGEN,Al Abeer Hospital  Kizhisseri  Kuzhimana  Malappuram  Malappuram,Private Lab,10.9854820,76.222624
+287,DMS HOSPITAL LLP,DMS HOSPITAL LLP  DOOR NO: 11/36-52 4 H AVENUE  NH MELECHELARI THENHIPALAM PO,Malappuram,ANTIGEN,DMS HOSPITAL LLP  DOOR NO: 11/36-52 4 H AVENUE  NH MELECHELARI THENHIPALAM PO,Private Lab,11.1137222,75.890353
+288,SUDHARMA SPECIALTY LABORATORY,SUDHARMA SPECIALTY LABORATORY  NMS Tower  Calicut Road  Valanchery,Malappuram,ANTIGEN,SUDHARMA SPECIALTY LABORATORY  NMS Tower  Calicut Road  Valanchery  Malappuram,Private Lab,11.0953860,76.120217
+289,MOTHER CARE AND HEALTH CENTRE (P LTD,MOTHER CARE AND HEALTH CENTRE (P LTD Vattambalam Kumaramputhur   Mannarkad  Palakkad,Malappuram,ANTIGEN,MOTHER CARE AND HEALTH CENTRE (P LTD Vattambalam Kumaramputhur   Mannarkad  Palakkad,Private Lab,10.9834250,76.423225
+290,ARMC AEGIS Hospital,ARMC AEGIS Hospital  Bypass road  Perinthalmanna  Malappuram,Malappuram,ANTIGEN,ARMC AEGIS Hospital  Bypass road  Perinthalmanna  Malappuram  Malappuram,Private Lab,10.9189330,75.927215
+291,Valluvanad Hospital Complex Limited,Valluvanad Hospital Complex Limited Kanniyampuram(PO Ottapalam  Palakkad,Palakkad,ANTIGEN,Valluvanad Hospital Complex Limited Kanniyampuram(PO Ottapalam  Palakkad  Palakkad,Private Lab,10.7748620,76.654783
+292,Paalana Institute of Medical Sciences,Paalana Institute of Medical Sciences  unit of Malabar Medical Mission Trust Kannadi. po  Palakkad,Palakkad,ANTIGEN,Paalana Institute of Medical Sciences  unit of Malabar Medical Mission Trust Kannadi. po  Palakkad   Palakkad,Private Lab,10.7383990,76.651172
+293,New Alma Hospital,New Alma Hospital  Mannarkad  Palakkad,Palakkad,ANTIGEN,New Alma Hospital  Mannarkad  Palakkad  Palakkad,Private Lab,10.9857009,76.451934
+294,P.K.Das Institute of Medical Sciences,P.K.Das Institute of Medical Sciences Vaniamkulam  Palakkad,Palakkad,ANTIGEN,P.K.Das Institute of Medical Sciences Vaniamkulam  Palakkad  Palakkad,Private Lab,10.7383990,76.651172
+295,Sevana Hospital & Research Centre Pvt. LTD,Sevana Hospital & Research Centre Pvt. LTD Kalladipatta (PO Pattambi,Palakkad,ANTIGEN,Sevana Hospital & Research Centre Pvt. LTD Kalladipatta (PO Pattambi  Palakkad,Private Lab,10.8059211,76.201535
+296,Ahalia Diabetes Hospital,Ahalia Diabetes Hospital Kozhippara  Palakkad,Palakkad,ANTIGEN,Ahalia Diabetes Hospital Kozhippara  Palakkad  Palakkad,Private Lab,10.7921560,76.827528
+297,Palakkad District Co-operative hospital and Research centre Limited,Palakkad District Co-operative hospital and Research centre Limited  Palakkad,Palakkad,ANTIGEN,Palakkad District Co-operative hospital and Research centre Limited  Palakkad  Palakkad,Private Lab,10.7704270,76.408786
+298,MODERN HOSPITAL,MODERN HOSPITAL  Guruvayur Road Koottanad  Palakkad,Palakkad,ANTIGEN,MODERN HOSPITAL  Guruvayur Road Koottanad  Palakkad  Palakkad,Private Lab,10.7843010,76.653451
+299,Thangam Hospital of PMRC,Thangam Hospital of PMRC Chandanamkurissi  West Yakkara  Palakkad,Palakkad,ANTIGEN,Thangam Hospital of PMRC Chandanamkurissi  West Yakkara  Palakkad  Palakkad,Private Lab,10.7549070,76.638456
+300,Avitis Hospital-Palakkad Town,Avitis Hospital-Palakkad Town  41/1027-1028  Brindavan Street  Near Town Hall  Palakkad,Palakkad,ANTIGEN,Avitis Hospital-Palakkad Town  41/1027-1028  Brindavan Street  Near Town Hall  Palakkad  Palakkad,Private Lab,10.7748620,76.654783
+301,LAKSHMI HOSPITAL,LAKSHMI HOSPITAL  CHITTUR ROAD PALAKKAD,Palakkad,ANTIGEN,LAKSHMI HOSPITAL  CHITTUR ROAD PALAKKAD  Palakkad,Private Lab,10.7635398,76.662295
+302,Athani Hospital Lab,Athani Hospital Lab  Nattukkal p o  Palakkad,Palakkad,ANTIGEN,Athani Hospital Lab  Nattukkal p o  Palakkad  Palakkad,Private Lab,10.6338180,76.658173
+303,Nila Hospital,Nila Hospital  Pattambi  Palakkad,Palakkad,ANTIGEN,Nila Hospital  Pattambi  Palakkad  Palakkad,Private Lab,10.8010553,76.174702
+304,SUTHARYA HEALTHCARE DIAGNOSTICS and Sudharma Specialty Laboratory,SUTHARYA HEALTHCARE DIAGNOSTICS and Sudharma Specialty Laboratory  Ottapalam,Palakkad,ANTIGEN,SUTHARYA HEALTHCARE DIAGNOSTICS and Sudharma Specialty Laboratory  Ottapalam,Private Lab,10.7768222,76.376103
+305,Pushpagiri Medical College Laboratory,Pushpagiri Medical College Laboratory  Thiruvalla,Palakkad,ANTIGEN,Pushpagiri Medical College Laboratory  Thiruvalla,Private Lab,9.3825306,76.580353
+306,Crescent Hospital,Crescent Hospital  Court Road  Alathur PO.  Palakkad,Palakkad,ANTIGEN,Crescent Hospital  Court Road  Alathur PO.  Palakkad  Palakkad,Private Lab,10.7748620,76.654783
+307,Believers Church Medical Colege,Believers Church Medical Colege  Thiruvalla,Pathanamthitta,ANTIGEN,Believers Church Medical Colege  Thiruvalla  Pathanamthitta,Private Lab,9.4165750,76.575368
+308,St Gregorius Medical Mission Hospital,St Gregorius Medical Mission Hospital  Thiruvalla,Pathanamthitta,ANTIGEN,St Gregorius Medical Mission Hospital  Thiruvalla  Pathanamthitta,Private Lab,9.3939100,76.578686
+309,Christian Mission Hospital,Christian Mission Hospital  Pandalam  Pathanamthitta,Pathanamthitta,ANTIGEN,Christian Mission Hospital  Pandalam  Pathanamthitta  Pathanamthitta,Private Lab,9.2183790,76.679400
+310,Muthoot Health Care Pvt Ltd,Muthoot Health Care Pvt Ltd Kozhencherry,Pathanamthitta,ANTIGEN,Muthoot Health Care Pvt Ltd Kozhencherry  Pathanamthitta,Private Lab,9.2665520,76.790786
+311,Holy cross Hospital,Holy cross Hospital  Adoor  Pathanamthitta,Pathanamthitta,ANTIGEN,Holy cross Hospital  Adoor  Pathanamthitta  Pathanamthitta,Private Lab,9.1616259,76.724471
+312,Lifeline Super Speciality Hospital,Lifeline Super Speciality Hospital  Adoor Pathanamthitta,Pathanamthitta,ANTIGEN,Lifeline Super Speciality Hospital  Adoor Pathanamthitta  Pathanamthitta,Private Lab,9.1634410,76.706332
+313,DDRC Srl Pathanamthitta,DDRC Srl Pathanamthitta,Pathanamthitta,ANTIGEN,DDRC Srl Pathanamthitta  Pathanamthitta,Private Lab,9.1547600,76.730803
+314,St. Thomas Hospital,St. Thomas Hospital  Malakkara P.O Edayaranmula  Pathanamthitta,Pathanamthitta,ANTIGEN,St. Thomas Hospital  Malakkara P.O Edayaranmula  Pathanamthitta  Pathanamthitta,Private Lab,9.3277020,76.674599
+315,Medical Trust Hospital and Diabetes care centre,Medical Trust Hospital and Diabetes care centre  Kulanada,Pathanamthitta,ANTIGEN,Medical Trust Hospital and Diabetes care centre  Kulanada  Pathanamthitta,Private Lab,9.3281020,76.645176
+316,MGM Muthoot Medical Centre,MGM Muthoot Medical Centre Ring Road  Pathanamthitta,Pathanamthitta,ANTIGEN,MGM Muthoot Medical Centre Ring Road  Pathanamthitta  Pathanamthitta,Private Lab,9.2726860,76.780336
+317,Poyanil Hospital,Poyanil Hospital  Kozhencherry  Pathanamthitta,Pathanamthitta,ANTIGEN,Poyanil Hospital  Kozhencherry  Pathanamthitta  Pathanamthitta,Private Lab,9.3368136,76.707935
+318,NSS Medical Mission Hospital,NSS Medical Mission Hospital  Pandalam  Pathanamthitta,Pathanamthitta,ANTIGEN,NSS Medical Mission Hospital  Pandalam  Pathanamthitta  Pathanamthitta,Private Lab,9.2251851,76.678327
+319,Mount Zion medical college and,Mount Zion medical college and,Pathanamthitta,ANTIGEN,Mount Zion medical college and  Pathanamthitta,Private Lab,9.3276500,76.760051
+320,Tiruvalla Medical Mission,Tiruvalla Medical Mission  Pathanamthitta,Pathanamthitta,ANTIGEN,Tiruvalla Medical Mission  Pathanamthitta  Pathanamthitta,Private Lab,9.4241710,76.798490
+321,St Vincent Hospital,St Vincent Hospital  Thuvayoor  Kadampanad  Pathanamthitta,Pathanamthitta,ANTIGEN,St Vincent Hospital  Thuvayoor  Kadampanad  Pathanamthitta  Pathanamthitta,Private Lab,9.1040440,76.696055
+322,GG Hospital,GG Hospital  Murinjapalam  Medical College PO,Pathanamthitta,ANTIGEN,GG Hospital  Murinjapalam  Medical College PO,Private Lab,8.5157889,76.933292
+323,PRS Hospital,PRS Hospital  Trivandrum,Thiruvananthapuram,ANTIGEN,PRS Hospital  Trivandrum  Thiruvananthapuram,Private Lab,8.4811163,76.959229
+324,Saraswathy Hospital,Saraswathy Hospital  Parassala  TVM,Thiruvananthapuram,ANTIGEN,Saraswathy Hospital  Parassala  TVM  Thiruvananthapuram,Private Lab,8.3486710,77.148511
+325,Attukal Devi Institute of Medical Sciences Ltd,Attukal Devi Institute of Medical Sciences Ltd  Trivandrum,Thiruvananthapuram,ANTIGEN,Attukal Devi Institute of Medical Sciences Ltd  Trivandrum  Thiruvananthapuram,Private Lab,8.6915810,76.819351
+326,SUT Hospital,SUT Hospital  Pattom,Thiruvananthapuram,ANTIGEN,SUT Hospital  Pattom  Thiruvananthapuram,Private Lab,8.5171396,76.941135
+327,DDRC,DDRC  Trivandrum,Thiruvananthapuram,ANTIGEN,DDRC  Trivandrum  Thiruvananthapuram,Private Lab,8.4900967,77.036164
+328,KIMS Trivandrum,KIMS Trivandrum,Thiruvananthapuram,ANTIGEN,KIMS Trivandrum  Thiruvananthapuram,Private Lab,8.5136570,76.909322
+329,S P Mutispeciality Hospitals PVT LTD,S P Mutispeciality Hospitals PVT LTD  Parassala,Thiruvananthapuram,ANTIGEN,S P Mutispeciality Hospitals PVT LTD  Parassala,Private Lab,8.3438972,77.151989
+330,Amar Maternity & Fertility Centre Attingal,Amar Maternity & Fertility Centre Attingal  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,Amar Maternity & Fertility Centre Attingal  Thiruvananthapuram  Thiruvananthapuram,Private Lab,8.7000589,76.814545
+331,Sree Gokulam Medical College,Sree Gokulam Medical College  Trivandrum,Thiruvananthapuram,ANTIGEN,Sree Gokulam Medical College  Trivandrum  Thiruvananthapuram,Private Lab,8.6916940,76.914074
+332,Dr. SMCSI Medical College and Hospital,Dr. SMCSI Medical College and Hospital  Karakonam,Thiruvananthapuram,ANTIGEN,Dr. SMCSI Medical College and Hospital  Karakonam   Thiruvananthapuram,Private Lab,8.3892730,77.173345
+333,Jubilee Hospital,Jubilee Hospital  Palayam Trivandrum,Thiruvananthapuram,ANTIGEN,Jubilee Hospital  Palayam Trivandrum  Thiruvananthapuram,Private Lab,8.5019965,76.952308
+334,AL- ARIF HOSPITAL,AL- ARIF HOSPITAL  Ambalathara  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,AL- ARIF HOSPITAL  Ambalathara  Thiruvananthapuram  Thiruvananthapuram,Private Lab,8.7157680,76.899729
+335,Santhwana Hospital PVT LTD,Santhwana Hospital PVT LTD Peroorkada.P.O  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,Santhwana Hospital PVT LTD Peroorkada.P.O  Thiruvananthapuram  Thiruvananthapuram,Private Lab,8.5321850,76.959502
+336,NIMS Medicity,NIMS Medicity  Neyyattinkara  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,NIMS Medicity  Neyyattinkara  Thiruvananthapuram,Private Lab,8.4122194,77.065919
+337,Cosmopolitan Hospitals Pvt Ltd,Cosmopolitan Hospitals Pvt Ltd  Trivandrum,Thiruvananthapuram,ANTIGEN,Cosmopolitan Hospitals Pvt Ltd  Trivandrum,Private Lab,8.5156194,76.935578
+338,Pran Fertility And Well Woman Centre( P Ltd,Pran Fertility And Well Woman Centre( P Ltd  Kumarapuram  Medical college P.O  Trivandrum,Thiruvananthapuram,ANTIGEN,Pran Fertility And Well Woman Centre( P Ltd  Kumarapuram  Medical college P.O  Trivandrum  Thiruvananthapuram,Private Lab,8.5057660,76.947490
+339,KTCT Hospital,KTCT Hospital Chathampara Thottakadu PO Kallambalam  Tvm,Thiruvananthapuram,ANTIGEN,KTCT Hospital Chathampara Thottakadu PO Kallambalam  Tvm  Thiruvananthapuram,Private Lab,8.5057660,76.947490
+340,Devi scans pvt Ltd,Devi scans pvt Ltd  Kumarapuram Trivandrum,Thiruvananthapuram,ANTIGEN,Devi scans pvt Ltd  Kumarapuram Trivandrum  Thiruvananthapuram,Private Lab,8.5896990,77.045034
+341,Meditrina Hospital,Meditrina Hospital  Pattom  Trivandrum,Thiruvananthapuram,ANTIGEN,Meditrina Hospital  Pattom  Trivandrum  Thiruvananthapuram,Private Lab,8.5155146,76.944224
+342,SP Fort Hospital,SP Fort Hospital  Trivandrum,Thiruvananthapuram,ANTIGEN,SP Fort Hospital  Trivandrum  Thiruvananthapuram,Private Lab,8.4846824,76.941578
+343,Metro Scans and Laboratory,Metro Scans and Laboratory  Medical College PO  Trivandrum,Thiruvananthapuram,ANTIGEN,Metro Scans and Laboratory  Medical College PO  Trivandrum,Private Lab,8.5253250,76.928464
+344,Ananthapuri Hospitals & Research Institute,Ananthapuri Hospitals & Research Institute  Trivandrum,Thiruvananthapuram,ANTIGEN,Ananthapuri Hospitals & Research Institute  Trivandrum  Thiruvananthapuram,Private Lab,8.5504074,76.960772
+345,Hind labs Diagnostic Centre and Polyclinic,Hind labs Diagnostic Centre and Polyclinic  TRIDA Complex  Medical College PO  Trivandrum,Thiruvananthapuram,ANTIGEN,Hind labs Diagnostic Centre and Polyclinic  TRIDA Complex  Medical College PO  Trivandrum,Private Lab,8.5227417,76.929672
+346,Kalyan Hospital,Kalyan Hospital  Aryasala  Manacaud P O  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,Kalyan Hospital  Aryasala  Manacaud P O  Thiruvananthapuram  Thiruvananthapuram,Private Lab,8.4321560,77.030276
+347,KJK HOSPITAL AND RESEARCH CENTRE,KJK HOSPITAL AND RESEARCH CENTRE  SHAWALLACE LANE  NALANCHIRA   TRIVANDRUM,Thiruvananthapuram,ANTIGEN,KJK HOSPITAL AND RESEARCH CENTRE  SHAWALLACE LANE  NALANCHIRA   TRIVANDRUM  Thiruvananthapuram,Private Lab,8.5896990,77.045034
+348,Nirmala Hospital,Nirmala Hospital  Karikakom PO,Thiruvananthapuram,ANTIGEN,Nirmala Hospital  Karikakom PO    Thiruvananthapuram,Private Lab,8.4975170,76.897664
+349,Sree Ramakrishna Ashrama Charitable Hospital,Sree Ramakrishna Ashrama Charitable Hospital  Sasthamangalam,Thiruvananthapuram,ANTIGEN,Sree Ramakrishna Ashrama Charitable Hospital  Sasthamangalam  Thiruvananthapuram,Private Lab,8.5129470,76.974445
+350,Sivagiri Sree Narayana Medical Mission Hospital,Sivagiri Sree Narayana Medical Mission Hospital  Varkala Puthenchantha,Thiruvananthapuram,ANTIGEN,Sivagiri Sree Narayana Medical Mission Hospital  Varkala Puthenchantha  Thiruvananthapuram,Private Lab,8.7296050,76.733477
+351,SUT Royale Hospital,SUT Royale Hospital  Ulloor  Trivandrum,Thiruvananthapuram,ANTIGEN,SUT Royale Hospital  Ulloor  Trivandrum  Thiruvananthapuram,Private Lab,8.5383550,76.929356
+352,Neyyar Medicity,Neyyar Medicity  Kattakada,Thiruvananthapuram,ANTIGEN,Neyyar Medicity  Kattakada  Thiruvananthapuram,Private Lab,8.5015783,77.069843
+353,RK Hospital,RK Hospital  Manacaud  Trivandrum,Thiruvananthapuram,ANTIGEN,RK Hospital  Manacaud  Trivandrum  Thiruvananthapuram,Private Lab,8.4742220,76.947459
+354,SK Hospital,SK Hospital  Edappazhinji  Pangode  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,SK Hospital  Edappazhinji  Pangode  Thiruvananthapuram  Thiruvananthapuram,Private Lab,8.5055290,76.971088
+355,Leela Ravi Hospital,Leela Ravi Hospital  Venjaramoodu Po  Tvm,Thiruvananthapuram,ANTIGEN,Leela Ravi Hospital  Venjaramoodu Po  Tvm  Thiruvananthapuram,Private Lab,8.6759310,76.910568
+356,Doctors Advanced Diagnostics,Doctors Advanced Diagnostics  Kumarapuram Trivandrum,Thiruvananthapuram,ANTIGEN,Doctors Advanced Diagnostics  Kumarapuram Trivandrum  Thiruvananthapuram,Private Lab,8.5896990,77.045034
+357,Sushrutha Medical Centre,Sushrutha Medical Centre  Pothencode  Trivandrum,Thiruvananthapuram,ANTIGEN,Sushrutha Medical Centre  Pothencode  Trivandrum  Thiruvananthapuram,Private Lab,8.5421860,76.966562
+358,MDC SCANS AND LABORATORY,MDC SCANS AND LABORATORY  PAMPPORETH TOWER  PAZHAYA ROAD MEDICAL COLLEGE P O  THIRUVANANTHAPURAM,Thiruvananthapuram,ANTIGEN,MDC SCANS AND LABORATORY  PAMPPORETH TOWER  PAZHAYA ROAD MEDICAL COLLEGE P O  THIRUVANANTHAPURAM  Thiruvananthapuram,Private Lab,8.5090970,76.929562
+359,Daya General Hospital Limited,Daya General Hospital Limited Shornur Road  Near Viyyur Bridge  Thrissur-22,Thiruvananthapuram,ANTIGEN,Daya General Hospital Limited Shornur Road  Near Viyyur Bridge  Thrissur-22,Private Lab,10.5461028,76.214622
+360,Procare Hospital,Procare Hospital Karette  Vamanapuram P O  Trivandrum,Thiruvananthapuram,ANTIGEN,Procare Hospital Karette  Vamanapuram P O  Trivandrum  Thiruvananthapuram,Private Lab,8.5185700,76.942625
+361,National Scans and Diagnostic Services,National Scans and Diagnostic Services  Raffa Building  Pothencode P O  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,National Scans and Diagnostic Services  Raffa Building  Pothencode P O  Thiruvananthapuram  Thiruvananthapuram,Private Lab,8.5185700,76.942625
+362,Amala Institute Of Medical Science,Amala Institute Of Medical Science  Thrissur,Thrissur,ANTIGEN,Amala Institute Of Medical Science  Thrissur,Private Lab,10.5617833,76.167519
+363,TM Hospital (A Unit Of Hrudaya Healthcare pvt Ltd,TM Hospital (A Unit Of Hrudaya Healthcare pvt Ltd  Chettuva  Kundaliyoor (po  Thrissur,Thrissur,ANTIGEN,TM Hospital (A Unit Of Hrudaya Healthcare pvt Ltd  Chettuva  Kundaliyoor (po  Thrissur,Private Lab,10.5251194,76.050350
+364,Jubilee Mission Medical College & RI,Jubilee Mission Medical College & RI  Thrissur,Thrissur,ANTIGEN,Jubilee Mission Medical College & RI  Thrissur  Thrissur,Private Lab,10.5203280,76.227551
+365,St James Hospital,St James Hospital  Thrissur,Thrissur,ANTIGEN,St James Hospital  Thrissur  Thrissur,Private Lab,10.3151212,76.335590
+366,Avitis Super Specialty Hospitals Pvt Ltd,Avitis Super Specialty Hospitals Pvt Ltd  Thrissur - Pollachi Main Road  Nemmara,Palakkad,ANTIGEN,Avitis Super Specialty Hospitals Pvt Ltd  Thrissur - Pollachi Main Road  Nemmara  Palakkad,Private Lab,10.5935600,76.596400
+367,Gem Hospital Paravattani Thrissur,Gem Hospital Paravattani Thrissur,Thrissur,ANTIGEN,Gem Hospital Paravattani Thrissur  Thrissur,Private Lab,10.5284340,76.219185
+368,Medicare Hospital,Medicare Hospital  CO Medall healthcare Pvt LTD  Kodungallur,Thrissur,ANTIGEN,Medicare Hospital  CO Medall healthcare Pvt LTD  Kodungallur,Private Lab,9.6026056,76.532322
+369,Santhi Ortho Hospital,Santhi Ortho Hospital  Kodakara  Thrissur,Thrissur,ANTIGEN,Santhi Ortho Hospital  Kodakara  Thrissur  Thrissur,Private Lab,10.2612340,76.182054
+370,MOTHER HOSPITAL PVT LIMITED,MOTHER HOSPITAL PVT LIMITED  PULLAZHI POST  OLARI THRISSUR,Thrissur,ANTIGEN,MOTHER HOSPITAL PVT LIMITED  PULLAZHI POST  OLARI THRISSUR  Thrissur,Private Lab,10.5192320,76.185355
+371,Sacred Heart Mission Hospital,Sacred Heart Mission Hospital  Pullur P O  Irinjalakuda  Thrissur,Thrissur,ANTIGEN,Sacred Heart Mission Hospital  Pullur P O  Irinjalakuda  Thrissur  Thrissur,Private Lab,10.5223860,76.247542
+372,Vivid diagnostic Centre,Vivid diagnostic Centre  Ground Floor  AVIS Building  Kodungalloor,Thrissur,ANTIGEN,Vivid diagnostic Centre  Ground Floor  AVIS Building  Kodungalloor  Thrissur,Private Lab,10.5170130,76.211472
+373,SUN MEDICAL AND RESEARCH CENTRE,SUN MEDICAL AND RESEARCH CENTRE S.T. NAGAR  KANNAMKULANGARA  THRISSUR,Thrissur,ANTIGEN,SUN MEDICAL AND RESEARCH CENTRE S.T. NAGAR  KANNAMKULANGARA  THRISSUR  Thrissur,Private Lab,10.4493880,76.269133
+374,Jeeva Specialty Laboratory,Jeeva Specialty Laboratory  Thrissur,Thrissur,ANTIGEN,Jeeva Specialty Laboratory  Thrissur  Thrissur,Private Lab,10.6153040,76.193996
+375,Aswini Hospital,Aswini Hospital  Karunakaran Nambiar Road  Thrissur,Thrissur,ANTIGEN,Aswini Hospital  Karunakaran Nambiar Road  Thrissur  Thrissur,Private Lab,10.4493880,76.269133
+376,Hayath Hospital,Hayath Hospital  Main Road  Chavakkad  Thrissur,Thrissur,ANTIGEN,Hayath Hospital  Main Road  Chavakkad  Thrissur  Thrissur,Private Lab,10.5434620,76.230914
+377,Metro Healthcare,Metro Healthcare  Town Hall  Irinjalakkuda  Thrissur,Thrissur,ANTIGEN,Metro Healthcare  Town Hall  Irinjalakkuda  Thrissur  Thrissur,Private Lab,10.3437350,76.208150
+378,Gurudharmam Mission Hospital Ltd,Gurudharmam Mission Hospital Ltd KK Road Mala  Thrissur,Thrissur,ANTIGEN,Gurudharmam Mission Hospital Ltd KK Road Mala  Thrissur  Thrissur,Private Lab,10.4493880,76.269133
+379,Elite Mission Hospital,Elite Mission Hospital  Koorkenchery  Thrissur,Thrissur,ANTIGEN,Elite Mission Hospital  Koorkenchery  Thrissur  Thrissur,Private Lab,10.5023580,76.211292
+380,Bishop Alapatt Mission Hospital,Bishop Alapatt Mission Hospital  Karanchira  Kattoor P O Thrissur,Thrissur,ANTIGEN,Bishop Alapatt Mission Hospital  Karanchira  Kattoor P O Thrissur  Thrissur,Private Lab,10.5223860,76.247542
+381,HYGEA MED LABORATORIES,HYGEA MED LABORATORIES Near Vivekodhayam School  Thiruvambady Thrissur,Thrissur,ANTIGEN,HYGEA MED LABORATORIES Near Vivekodhayam School  Thiruvambady Thrissur  Thrissur,Private Lab,10.4493880,76.269133
+382,St Antonys Mission Hospital,St Antonys Mission Hospital  Pazhuvil  Thrissur,Thrissur,ANTIGEN,St Antonys Mission Hospital  Pazhuvil  Thrissur  Thrissur,Private Lab,10.4169818,76.154331
+383,Unity Hospital,Unity Hospital  Kanippayyur  Kunnamkulam  Thrissur,Thrissur,ANTIGEN,Unity Hospital  Kanippayyur  Kunnamkulam  Thrissur  Thrissur,Private Lab,10.6360320,76.081896
+384,NEST De-Addiction Hospital,NEST De-Addiction Hospital  Kuttumukku  Thrissur,Thrissur,ANTIGEN,NEST De-Addiction Hospital  Kuttumukku  Thrissur  Thrissur,Private Lab,10.5542010,76.234997
+385,Westfort Hospital,Westfort Hospital  West Fort  Thrissur,Thrissur,ANTIGEN,Westfort Hospital  West Fort  Thrissur  Thrissur,Private Lab,10.5376360,76.196403
+386,DHANYA MISSION HOSPITAL,DHANYA MISSION HOSPITAL  CHALAKUDY  THRISSUR,Thrissur,ANTIGEN,DHANYA MISSION HOSPITAL  CHALAKUDY  THRISSUR  Thrissur,Private Lab,10.3310240,76.324575
+387,Central laboratories,Central laboratories  Bund Road Kanjany  Thrissur,Thrissur,ANTIGEN,Central laboratories  Bund Road Kanjany  Thrissur  Thrissur,Private Lab,10.4493880,76.269133
+388,IRINJALAKUDA COOPERATIVE HOSPITAL LTD,IRINJALAKUDA COOPERATIVE HOSPITAL LTD  Kolothumpadi  Nadavaramba P O  Thrissur,Thrissur,ANTIGEN,IRINJALAKUDA COOPERATIVE HOSPITAL LTD  Kolothumpadi  Nadavaramba P O  Thrissur  Thrissur,Private Lab,10.5223860,76.247542
+389,M.O.S.C.M.M Hospital Aduppootty Hills,M.O.S.C.M.M Hospital Aduppootty Hills  Kunnamkulam  Thrissur,Thrissur,ANTIGEN,M.O.S.C.M.M Hospital Aduppootty Hills  Kunnamkulam  Thrissur,Private Lab,10.6483583,76.078675
+390,Royal Hospital,Royal Hospital  DR TM Healthcare Pvt Ltd  Royal Hospital Complex  Kunnamkulam  Thrissur,Thrissur,ANTIGEN,Royal Hospital  DR TM Healthcare Pvt Ltd  Royal Hospital Complex  Kunnamkulam  Thrissur,Private Lab,10.5251194,76.050350
+391,Jeevodaya Mission Hospital,Jeevodaya Mission Hospital  Chelakkara  Thrissur,Thrissur,ANTIGEN,Jeevodaya Mission Hospital  Chelakkara  Thrissur  Thrissur,Private Lab,10.6959215,76.330926
+392,Rajah Charitable  Medical Trust,Rajah Charitable  Medical Trust  Muthuvattoor  Chavakkad  Thrissur,Thrissur,ANTIGEN,Rajah Charitable  Medical Trust  Muthuvattoor  Chavakkad  Thrissur,Private Lab,10.5937806,76.029047
+393,Divine Medical Centre Ltd,Divine Medical Centre Ltd  Wadakkanchery  Thrissur,Thrissur,ANTIGEN,Divine Medical Centre Ltd  Wadakkanchery  Thrissur  Thrissur,Private Lab,10.4493880,76.269133
+394,G E M HOSPITAL,G E M HOSPITAL   BENNET ROAD   THRISSUR,Thrissur,ANTIGEN,G E M HOSPITAL   BENNET ROAD   THRISSUR  Thrissur,Private Lab,10.4493880,76.269133
+395,Saroja Multispecialty Hospital,Saroja Multispecialty Hospital  A unit of Saroja Nursing Home  Shornur Road,Thrissur,ANTIGEN,Saroja Multispecialty Hospital  A unit of Saroja Nursing Home  Shornur Road  Thrissur,Private Lab,10.5322010,76.215148
+396,Ansar Hospital,Ansar Hospital  Karikkad P O  Thrissur,Thrissur,ANTIGEN,Ansar Hospital  Karikkad P O  Thrissur  Thrissur,Private Lab,10.5223860,76.247542
+397,Neem Care Hospital,Neem Care Hospital  Mala  Thrissur,Thrissur,ANTIGEN,Neem Care Hospital  Mala  Thrissur  Thrissur,Private Lab,10.2415013,76.262590
+398,IQRAA,IQRAA  SULTAN BATHERY,Thrissur,ANTIGEN,IQRAA  SULTAN BATHERY,Private Lab,11.6657083,76.262431
+399,St Joseph Hospital,St Joseph Hospital  Choondal  Thrissur,Thrissur,ANTIGEN,St Joseph Hospital  Choondal  Thrissur  Thrissur,Private Lab,10.4345450,76.355091
+400,Chandramathy Amma Memorial Hospital,Chandramathy Amma Memorial Hospital  Olarikkara  Thrissur,Thrissur,ANTIGEN,Chandramathy Amma Memorial Hospital  Olarikkara  Thrissur  Thrissur,Private Lab,10.5164730,76.178372
+401,ROHINI HOSPITAL,ROHINI HOSPITAL   CHERPU.P.O  THRISSUR,Thrissur,ANTIGEN,ROHINI HOSPITAL   CHERPU.P.O  THRISSUR   Thrissur,Private Lab,10.4422250,76.210197
+402,Santhi Nursing Home,Santhi Nursing Home  Punnayurkulam  Thrissur,Thrissur,ANTIGEN,Santhi Nursing Home  Punnayurkulam  Thrissur  Thrissur,Private Lab,10.4493880,76.269133
+403,M.I.Mission Hospital,M.I.Mission Hospital  Engandiyur,Thrissur,ANTIGEN,M.I.Mission Hospital  Engandiyur   Thrissur,Private Lab,10.3450430,76.234776
+404,CRAFT HOSPITAL AND RESEARCH CENTRE,CRAFT HOSPITAL AND RESEARCH CENTRE  KODUNGALLUR  THRISSUR,Thrissur,ANTIGEN,CRAFT HOSPITAL AND RESEARCH CENTRE  KODUNGALLUR  THRISSUR  Thrissur,Private Lab,10.3674700,76.114617
+405,SUDHARMA SPECIALTY LABORATORY,SUDHARMA SPECIALTY LABORATORY  Pazhayannur  Akbar mall Thrissur road Thrissur,Thrissur,ANTIGEN,SUDHARMA SPECIALTY LABORATORY  Pazhayannur  Akbar mall Thrissur road Thrissur  Thrissur,Private Lab,10.4493880,76.269133
+406,Vinayaka Hospital,Vinayaka Hospital  Sulthan Bathery,Wayanad,ANTIGEN,Vinayaka Hospital  Sulthan Bathery  Wayanad,Private Lab,11.6636100,76.253721
+407,DDRC SRL Diagnostics Pvt Ltd,DDRC SRL Diagnostics Pvt Ltd  Kalpetta  Wayanad.,Wayanad,ANTIGEN,DDRC SRL Diagnostics Pvt Ltd  Kalpetta  Wayanad.,Private Lab,11.6048111,76.085003
+408,Assumption Hospital,Assumption Hospital  Sulthan Bathery Wayanad.,Wayanad,ANTIGEN,Assumption Hospital  Sulthan Bathery Wayanad.  Wayanad,Private Lab,11.6624904,76.253236
+409,ST. Joseph's Mission Hospital,ST. Joseph's Mission Hospital  Mananthavady  Wayanad,Wayanad,ANTIGEN,ST. Joseph's Mission Hospital  Mananthavady  Wayanad  Wayanad,Private Lab,11.8016378,76.006595
+410,KDC LAB,KDC LAB  Fairland Colony Road  Sulthan Bathery,Wayanad,ANTIGEN,KDC LAB  Fairland Colony Road  Sulthan Bathery  Wayanad,Private Lab,11.6862500,76.092954
+411,Victory Hospital Road,Victory Hospital Road  near Matha Theatre  Sultan Bathery,Wayanad,ANTIGEN,Victory Hospital Road  near Matha Theatre  Sultan Bathery  Wayanad,Private Lab,11.6862500,76.092954
+412,DDRC SRL Diagnostics Pvt Ltd,DDRC SRL Diagnostics Pvt Ltd    N.S.S.Karayogam Buildings  Opposite Relief Medicals  Koorkenchery,Wayanad,ANTIGEN,DDRC SRL Diagnostics Pvt Ltd    N.S.S.Karayogam Buildings  Opposite Relief Medicals  Koorkenchery,Private Lab,11.3660306,75.962594
+413,DM WIMS Medical College,DM WIMS Medical College  Meppadi Wayanad,Wayanad,ANTIGEN,DM WIMS Medical College  Meppadi Wayanad  Wayanad,Private Lab,11.5530632,76.132199
+414,Leo Hospital,Leo Hospital  Near New Bus stand  Kalpetta Post  Wayanad  Kerala,Wayanad,ANTIGEN,Leo Hospital  Near New Bus stand  Kalpetta Post  Wayanad  Kerala  Wayanad,Private Lab,11.6045190,76.085307
+415,GOOD SHEPHERD HOSPITAL,GOOD SHEPHERD HOSPITAL  Vythiri (P.O  WAYANAD,Wayanad,ANTIGEN,GOOD SHEPHERD HOSPITAL  Vythiri (P.O  WAYANAD  Wayanad,Private Lab,11.5604534,76.044141
+416,St Vincent Hospital,St Vincent Hospital  Mananthavady  Vemom Po Wayanad,Wayanad,ANTIGEN,St Vincent Hospital  Mananthavady  Vemom Po Wayanad  Wayanad,Private Lab,11.8146150,76.016734
+417,Fatima Mata Mission Hospital,Fatima Mata Mission Hospital  Pinangode Road  Kalpetta  Wayanad,Wayanad,ANTIGEN,Fatima Mata Mission Hospital  Pinangode Road  Kalpetta  Wayanad  Wayanad,Private Lab,11.6143920,76.078948
+418,Arogya Polyclinic,Arogya Polyclinic  Meenangadi  Wayanad,Wayanad,ANTIGEN,Arogya Polyclinic  Meenangadi  Wayanad  Wayanad,Private Lab,11.6623892,76.161569
+419,Karuna Hospital,Karuna Hospital Sulthan Bathery PO Wayanad,Wayanad,ANTIGEN,Karuna Hospital Sulthan Bathery PO Wayanad  Wayanad,Private Lab,11.6616520,76.251371
+420,Dr. Appukuttan Memorial Hospital,Dr. Appukuttan Memorial Hospital  Sulthan Bathery PO Wayanad,Wayanad,ANTIGEN,Dr. Appukuttan Memorial Hospital  Sulthan Bathery PO Wayanad   Wayanad,Private Lab,11.6625230,76.260950
+421,PBM Hospital,PBM Hospital  Meenangadi Wayanad,Wayanad,ANTIGEN,PBM Hospital  Meenangadi Wayanad  Wayanad,Private Lab,11.6570597,76.159665
+422,Sneha Laboratory,Sneha Laboratory Sneha Hospital  Kenichira Wayanad,Wayanad,ANTIGEN,Sneha Laboratory Sneha Hospital  Kenichira Wayanad  Wayanad,Private Lab,11.7217940,76.153209
+423,Louise Mount Hospital,Louise Mount Hospital  Chennalode PO  Kalpetta  Wayanad,Wayanad,ANTIGEN,Louise Mount Hospital  Chennalode PO  Kalpetta  Wayanad  Wayanad,Private Lab,11.6528010,76.000014
+424,St Martins Hospital,St Martins Hospital  Ambalavayal  Wayanad,Wayanad,ANTIGEN,St Martins Hospital  Ambalavayal  Wayanad  Wayanad,Private Lab,11.8146150,76.016734
+425,KMHM .M.E.S HOSPITAL,KMHM .M.E.S HOSPITAL  SULTHAN BATHERY  WAYANAD  KERALA,Wayanad,ANTIGEN,KMHM .M.E.S HOSPITAL  SULTHAN BATHERY  WAYANAD  KERALA  Wayanad,Private Lab,11.6615960,76.257248
+426,Marina Hospital,Marina Hospital  Ambalavayal  Wayanad,Wayanad,ANTIGEN,Marina Hospital  Ambalavayal  Wayanad  Wayanad,Private Lab,11.6190169,76.212433
+427,SHRISHA Hospital,SHRISHA Hospital  Opposite Police Station  Pulpally,Wayanad,ANTIGEN,SHRISHA Hospital  Opposite Police Station  Pulpally  Wayanad,Private Lab,11.7962250,76.002651
+429,Span Diagnostics,Span Diagnostics  R S Building  Paripally  Kollam,Thrissur,ANTIGEN,Span Diagnostics  R S Building  Paripally  Kollam,Private Lab,8.8129833,76.750600
+430,I vision Eye Care Centre,I vision Eye Care Centre  Chalakkudy  Thrissur,Thrissur,ANTIGEN,I vision Eye Care Centre  Chalakkudy  Thrissur  Thrissur,Private Lab,10.5310770,76.226429
+431,R.C.P.M Hospital,R.C.P.M Hospital  Changankulangara  Oachira,Kollam,ANTIGEN,R.C.P.M Hospital  Changankulangara  Oachira  Kollam,Private Lab,8.8922730,76.632505
+431,R.C.P.M Hospital,R.C.P.M Hospital  Changankulangara  Oachira,Kollam,ANTIGEN,R.C.P.M Hospital  Changankulangara  Oachira  Kollam,Private Lab,8.8922730,76.632505
+432,Anadiyil Hospital Thekkumoodu Tvm,Anadiyil Hospital Thekkumoodu Tvm,Thiruvananthapuram,ANTIGEN,Anadiyil Hospital Thekkumoodu Tvm  Thiruvananthapuram,Private Lab,8.5102530,76.942524
+433,Doctor's Lab,Doctor's Lab  Uppala  Kasargod,Kasaragod,ANTIGEN,Doctor's Lab  Uppala  Kasargod  Kasaragod,Private Lab,12.1440610,75.182401
+434,Manappuram Healthcare Ltd,Manappuram Healthcare Ltd  High School Jn  Valappad  Thrissur,Kollam,ANTIGEN,Manappuram Healthcare Ltd  High School Jn  Valappad  Thrissur,Private Lab,10.3988944,76.114631
+435,Dr.Gopinath's Diagnostic Services,Dr.Gopinath's Diagnostic Services  General Hospital Junction Thiruvananthapuram Kerala,Thiruvananthapuram,ANTIGEN,Dr.Gopinath's Diagnostic Services  General Hospital Junction Thiruvananthapuram Kerala  Thiruvananthapuram,Private Lab,8.5010600,76.942160
+436,SBM Hospital,SBM Hospital  Karunagappally,Kollam,ANTIGEN,SBM Hospital  Karunagappally  Kollam,Private Lab,9.0532268,76.535754
+437,Westfort Hi-tech Hospital,Westfort Hi-tech Hospital  Guruvayoor Road  Ponkunnam  Thrissur,Thrissur,ANTIGEN,Westfort Hi-tech Hospital  Guruvayoor Road  Ponkunnam  Thrissur  Thrissur,Private Lab,10.6182250,76.028627
+438,VALIYATH INSTITUTE OF MEDICAL SCIENCES,VALIYATH INSTITUTE OF MEDICAL SCIENCES  Pada South  Karunagapally-690518,Kollam,ANTIGEN,VALIYATH INSTITUTE OF MEDICAL SCIENCES  Pada South  Karunagapally-690518   Kollam,Private Lab,8.8898120,76.597863
+439,S N Trusts Medical Mission,S N Trusts Medical Mission PB No 32 Q S Road Kollam,Kollam,ANTIGEN,S N Trusts Medical Mission PB No 32 Q S Road Kollam  Kollam,Private Lab,9.0030700,76.771703
+440,I.G Clinic & Medical Lab,I.G Clinic & Medical Lab  Moodadi North Post  Koyilandy,Kozhikode,ANTIGEN,I.G Clinic & Medical Lab  Moodadi North Post  Koyilandy  Kozhikode,Private Lab,11.4693574,75.654472
+441,S Path Labs & Scans,S Path Labs & Scans  Mundukottackal Building   S A Road  Kadavanthra,Ernakulam,ANTIGEN,S Path Labs & Scans  Mundukottackal Building   S A Road  Kadavanthra  Ernakulam,Private Lab,10.7788554,76.430326
+442,EL-EVEN LABORATORIES,EL-EVEN LABORATORIES  30/29  Iillikkal House Changampuzha Nagar P.O  Illikkal Moideen Road  Pathadipalam Ernakulam,Thrissur,ANTIGEN,EL-EVEN LABORATORIES  30/29  Iillikkal House Changampuzha Nagar P.O  Illikkal Moideen Road  Pathadipalam Ernakulam,Private Lab,10.0385722,76.316092
+443,Aroha Clinic,Aroha Clinic  Manakkadavu Road  Kozhikode,Kozhikode,ANTIGEN,Aroha Clinic  Manakkadavu Road  Kozhikode  Kozhikode,Private Lab,11.2105540,75.852168
+444,Sanjeevani Hospital,Sanjeevani Hospital  Kurisummoodu P O Changanacherry-4  Kottayam,Kottayam,ANTIGEN,Sanjeevani Hospital  Kurisummoodu P O Changanacherry-4  Kottayam  Kottayam,Private Lab,9.4557410,76.552661
+445,Jeevan Diagnostic Centre,Jeevan Diagnostic Centre  Puthiyatheru  Kannur,Ernakulam,ANTIGEN,Jeevan Diagnostic Centre  Puthiyatheru  Kannur,Private Lab,11.9145861,75.363217
+446,Relief Hospital and Trauma Center,Relief Hospital and Trauma Center  Kondotty  Malappuram,Malappuram,ANTIGEN,Relief Hospital and Trauma Center  Kondotty  Malappuram  Malappuram,Private Lab,11.1433594,75.965705
+447,Star Hospital and Nursing Home,Star Hospital and Nursing Home  Oachira  Kollam,Kannur,ANTIGEN,Star Hospital and Nursing Home  Oachira  Kollam,Private Lab,9.1333111,76.512644
+448,Tely Medical Centre Ltd,Tely Medical Centre Ltd  2nd  Gate  Thiruvangad  Thalassery,Kannur,ANTIGEN,Tely Medical Centre Ltd  2nd  Gate  Thiruvangad  Thalassery  Kannur,Private Lab,11.7385010,75.508261
+449,Kozhikode District Co-operative Hospital,Kozhikode District Co-operative Hospital  Eranhipalam,Kozhikode,ANTIGEN,Kozhikode District Co-operative Hospital  Eranhipalam  Kozhikode,Private Lab,11.2769100,75.784491
+450,Mother and Child Hospital,Mother and Child Hospital  South Bazar  Kannur,Kannur,ANTIGEN,Mother and Child Hospital  South Bazar  Kannur  Kannur,Private Lab,11.8190470,75.548752
+451,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  Opposite Neo Hospital  Manjeri roead  Pandikkad,Kollam,ANTIGEN,Sudharma Specialty Laboratory  Opposite Neo Hospital  Manjeri roead  Pandikkad,Private Lab,11.0411944,76.085028
+452,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory Erumapetty  Thrissur,Thrissur,ANTIGEN,Sudharma Specialty Laboratory Erumapetty  Thrissur  Thrissur,Private Lab,10.5628690,76.168453
+453,Karunya Diagnostic Centre,Karunya Diagnostic Centre  Room No. 18  KSRTC Complex Caltex   Kannur,Kannur,ANTIGEN,Karunya Diagnostic Centre  Room No. 18  KSRTC Complex Caltex   Kannur  Kannur,Private Lab,10.6807901,76.161291
+454,Maria Hospital,Maria Hospital  K P Road  Adoor  Pathanamthitta,Pathanamthitta,ANTIGEN,Maria Hospital  K P Road  Adoor  Pathanamthitta  Pathanamthitta,Private Lab,9.2726860,76.780336
+455,Microlab Scans&Diagnostics,Microlab Scans&Diagnostics  M Square Buliding  Opposite Chitra Hospital Pandalam,Pathanamthitta,ANTIGEN,Microlab Scans&Diagnostics  M Square Buliding  Opposite Chitra Hospital Pandalam  Pathanamthitta,Private Lab,9.2215390,76.714391
+456,Emirates Medical Diagnostic Centre,Emirates Medical Diagnostic Centre  Near Govt Hospital  Mavelikkara  Alappuzha,Malappuram,ANTIGEN,Emirates Medical Diagnostic Centre  Near Govt Hospital  Mavelikkara  Alappuzha,Private Lab,9.2541111,76.548158
+457,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  City Plaza  Near Manalimmal Bus stand  Wandoor,Malappuram,ANTIGEN,Sudharma Specialty Laboratory  City Plaza  Near Manalimmal Bus stand  Wandoor  Malappuram,Private Lab,11.1318540,76.135645
+458,Anamaya Medical Institute,Anamaya Medical Institute  Payyanur,Alappuzha,ANTIGEN,Anamaya Medical Institute  Payyanur,Private Lab,12.1197389,75.208961
+459,Palakkad Institute of Medical Sciences,Palakkad Institute of Medical Sciences  Walayar  Palakkad,Palakkad,ANTIGEN,Palakkad Institute of Medical Sciences  Walayar  Palakkad  Palakkad,Private Lab,10.8018660,76.818454
+460,Neethi Plus Laboratory and Diagnostic Centre,Neethi Plus Laboratory and Diagnostic Centre  Pattarnadakavu  Malappuram,Malappuram,ANTIGEN,Neethi Plus Laboratory and Diagnostic Centre  Pattarnadakavu  Malappuram  Malappuram,Private Lab,10.9750100,76.232619
+461,E.K.NAYANAR MEMORIAL NEETHI MEDICAL CENTRE,E.K.NAYANAR MEMORIAL NEETHI MEDICAL CENTRE  NEETHI TOWER  HOSPITAL ROAD  MANNARKKAD,Palakkad,ANTIGEN,E.K.NAYANAR MEMORIAL NEETHI MEDICAL CENTRE  NEETHI TOWER  HOSPITAL ROAD  MANNARKKAD  Palakkad,Private Lab,10.7366960,76.661554
+462,Dianova Laboratories,Dianova Laboratories  ABG Complex Pazhaya Road  Medical College  Trivandrum,Thiruvananthapuram,ANTIGEN,Dianova Laboratories  ABG Complex Pazhaya Road  Medical College  Trivandrum  Thiruvananthapuram,Private Lab,8.5212553,76.927783
+463,Labcare Diagnostic Centre,Labcare Diagnostic Centre  V P Tower  Near Christian Mission Hospital Up Hill  Malappuram,Malappuram,ANTIGEN,Labcare Diagnostic Centre  V P Tower  Near Christian Mission Hospital Up Hill  Malappuram  Malappuram,Private Lab,11.0414426,76.083659
+464,Assisi Mission Hospital,Assisi Mission Hospital  Parappukara P.O   Thrissur,Thrissur,ANTIGEN,Assisi Mission Hospital  Parappukara P.O   Thrissur  Thrissur,Private Lab,10.4493880,76.269133
+465,ATREYA HOSPITAL,ATREYA HOSPITAL  a unit of DMRI Guruvayoor Road   Near Pipeline Jn  Eastfort   Thrissur,Thrissur,ANTIGEN,ATREYA HOSPITAL  a unit of DMRI Guruvayoor Road   Near Pipeline Jn  Eastfort   Thrissur  Thrissur,Private Lab,10.4493880,76.269133
+466,Sahakarana Medical Lab,Sahakarana Medical Lab  Run By Nadakkuthazha Service Co-Operative Bank  Near Dist Gov: Hospital  Vadakara,Kozhikode,ANTIGEN,Sahakarana Medical Lab  Run By Nadakkuthazha Service Co-Operative Bank  Near Dist Gov: Hospital  Vadakara  Kozhikode,Private Lab,11.5981400,75.597216
+467,CLINICAL DIAGNOSTIC&RESEARCH CENTRE,CLINICAL DIAGNOSTIC&RESEARCH CENTRE  RAUNAK BHAVAN  CDRC BUILDING MANACAUD THIRUVANANTHAPURAM,Thiruvananthapuram,ANTIGEN,CLINICAL DIAGNOSTIC&RESEARCH CENTRE  RAUNAK BHAVAN  CDRC BUILDING MANACAUD THIRUVANANTHAPURAM  Thiruvananthapuram,Private Lab,9.9613548,76.289463
+468,Karthiayani Nursing Home,Karthiayani Nursing Home  Patturaikkal  Thrissur,Thrissur,ANTIGEN,Karthiayani Nursing Home  Patturaikkal  Thrissur  Thrissur,Private Lab,10.5356710,76.211968
+469,Malabar Diagnostic Centre,Malabar Diagnostic Centre  MM Towers  Perinthalmanna Road  Valanchery  Malappuram,Malappuram,ANTIGEN,Malabar Diagnostic Centre  MM Towers  Perinthalmanna Road  Valanchery  Malappuram  Malappuram,Private Lab,11.0040080,76.005019
+470,B R Hospital and Research Centre,B R Hospital and Research Centre  Nedungolam P O   Kollam,Kollam,ANTIGEN,B R Hospital and Research Centre  Nedungolam P O   Kollam  Kollam,Private Lab,8.9807480,76.852017
+471,Janamythri Lab,Janamythri Lab  Malabar Shopping Mall  Nilambur  Near Government Model UP School  Malappuram,Malappuram,ANTIGEN,Janamythri Lab  Malabar Shopping Mall  Nilambur  Near Government Model UP School  Malappuram   Malappuram,Private Lab,11.1210730,76.119983
+472,Areekkara Medical Laboratory,Areekkara Medical Laboratory  Near Govt Taluk Hospital  Kuttiady  Kozhikode,Kannur,ANTIGEN,Areekkara Medical Laboratory  Near Govt Taluk Hospital  Kuttiady  Kozhikode,Private Lab,11.6553861,75.749400
+473,Nucleus Health Care Laboratory,Nucleus Health Care Laboratory   Opp. Govt Hospital  Irikkur P.O   Kannur,Kannur,ANTIGEN,Nucleus Health Care Laboratory   Opp. Govt Hospital  Irikkur P.O   Kannur  Kannur,Private Lab,11.8834540,75.371959
+474,Gouri Sankar Nursing Home,Gouri Sankar Nursing Home  xx 633A 663 B Arakulam Road  Methala  Thrissur,Thrissur,ANTIGEN,Gouri Sankar Nursing Home  xx 633A 663 B Arakulam Road  Methala  Thrissur   Thrissur,Private Lab,10.7372530,76.196634
+475,DDRC SRL Diagnostic Centre,DDRC SRL Diagnostic Centre  Kavitha Tower Arakkuzha Road Muvattupuzha  Ernakulam,Kozhikode,ANTIGEN,DDRC SRL Diagnostic Centre  Kavitha Tower Arakkuzha Road Muvattupuzha  Ernakulam,Private Lab,9.9784000,76.579239
+476,Santhinikethan Hospital,Santhinikethan Hospital  3/461  Ponkunnam  Ponkunnam-P.O,Kottayam,ANTIGEN,Santhinikethan Hospital  3/461  Ponkunnam  Ponkunnam-P.O   Kottayam,Private Lab,9.5882530,76.529574
+477,ATLAS LABORATORY(A Unit of Paramountcy Research & Diagnostics PVT Ltd,ATLAS LABORATORY(A Unit of Paramountcy Research & Diagnostics PVT Ltd  OPP to Sree Ramakrishna Hospital  Sasthamanagalam  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,ATLAS LABORATORY(A Unit of Paramountcy Research & Diagnostics PVT Ltd  OPP to Sree Ramakrishna Hospital  Sasthamanagalam  Thiruvananthapuram,Private Lab,8.5127309,76.972786
+478,SUNRISE HOSPITAL PVT LTD,SUNRISE HOSPITAL PVT LTD  unit :Arafa Hospital  CHANGARAMKULAM  NANNAMUKKU (PO,Malappuram,ANTIGEN,SUNRISE HOSPITAL PVT LTD  unit :Arafa Hospital  CHANGARAMKULAM  NANNAMUKKU (PO  Malappuram,Private Lab,11.1172370,76.121667
+479,Hearts Malabar Super Speciality Hospital,Hearts Malabar Super Speciality Hospital  Near Mathrubhumi  Cherussola P O  Palathara  Malappuram,Malappuram,ANTIGEN,Hearts Malabar Super Speciality Hospital  Near Mathrubhumi  Cherussola P O  Palathara  Malappuram   Malappuram,Private Lab,11.1587390,76.054542
+480,Mangaly Medical Centre,Mangaly Medical Centre  Near St Thomas School  Olavakode- Dhoni Road   Kallekulangara  Palakkad,Palakkad,ANTIGEN,Mangaly Medical Centre  Near St Thomas School  Olavakode- Dhoni Road   Kallekulangara  Palakkad  Palakkad,Private Lab,10.7748620,76.654783
+481,Mercy Nursing Home,Mercy Nursing Home  Karukachal  Kottayam,Kottayam,ANTIGEN,Mercy Nursing Home  Karukachal  Kottayam  Kottayam,Private Lab,9.5041279,76.640235
+482,Metropolis Lab,Metropolis Lab  PVS Hospital  Calicut.,Kozhikode,ANTIGEN,Metropolis Lab  PVS Hospital  Calicut.  Kozhikode,Private Lab,11.2689080,75.780614
+483,ATLAS Diagnostics & Imaging Centre (A Unit of Paramountcy Research & Diagnostics PVT Ltd,ATLAS Diagnostics & Imaging Centre (A Unit of Paramountcy Research & Diagnostics PVT Ltd  Karthika Arcade  Opp Taluk Hospital  Karunagapally,Thiruvananthapuram,ANTIGEN,ATLAS Diagnostics & Imaging Centre (A Unit of Paramountcy Research & Diagnostics PVT Ltd  Karthika Arcade  Opp Taluk Hospital  Karunagapally,Private Lab,9.0643972,76.534992
+484,DDRC SRL Diagnostics Services PVT.LTD,DDRC SRL Diagnostics Services PVT.LTD  Sreekumar Building   Puthiyadam Temple Road  Kayamkulam   Alappuzha,Alappuzha,ANTIGEN,DDRC SRL Diagnostics Services PVT.LTD  Sreekumar Building   Puthiyadam Temple Road  Kayamkulam   Alappuzha  Alappuzha,Private Lab,9.3241220,76.619262
+485,DDRC SRL Diagnostics Services PVT.LTD,DDRC SRL Diagnostics Services PVT.LTD  Mattappallil J J complex Opposite Anchal Hospital  Anchal,Kollam,ANTIGEN,DDRC SRL Diagnostics Services PVT.LTD  Mattappallil J J complex Opposite Anchal Hospital  Anchal  Kollam,Private Lab,8.9242060,76.910954
+486,Metro SpecialtyHormone Laboratory,Metro SpecialtyHormone Laboratory  Opp Medical College Main Gate  Medical College Main Road,Malappuram,ANTIGEN,Metro SpecialtyHormone Laboratory  Opp Medical College Main Gate  Medical College Main Road  Malappuram,Private Lab,10.8847710,76.348544
+487,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  Amina Tower  Near district hospital  ottupara  Wadakkanchery,Thrissur,ANTIGEN,Sudharma Specialty Laboratory  Amina Tower  Near district hospital  ottupara  Wadakkanchery  Thrissur,Private Lab,10.3408940,76.146442
+488,Silverline Hospital,Silverline Hospital  K P Vallon Road  Kadavanthra  Kochi,Ernakulam,ANTIGEN,Silverline Hospital  K P Vallon Road  Kadavanthra  Kochi  Ernakulam,Private Lab,9.9562970,76.332486
+489,Upasana Road,Upasana Road  P.P Road   Pala,Kottayam,ANTIGEN,Upasana Road  P.P Road   Pala  Kottayam,Private Lab,9.7179690,76.681381
+490,Sagara Hospital,Sagara Hospital  Punnapra  Alappuzha,Alappuzha,ANTIGEN,Sagara Hospital  Punnapra  Alappuzha  Alappuzha,Private Lab,9.4618140,76.330998
+491,Indian Medical Laboratory,Indian Medical Laboratory  Near Govt Hospital  Thalassery P O  Kannur,Kannur,ANTIGEN,Indian Medical Laboratory  Near Govt Hospital  Thalassery P O  Kannur  Kannur,Private Lab,11.9842340,75.553390
+492,Craft Hospital,Craft Hospital  Pattambi Road Perinthalmanna  Malappuram,Malappuram,ANTIGEN,Craft Hospital  Pattambi Road Perinthalmanna  Malappuram  Malappuram,Private Lab,10.9705800,76.220719
+493,Panakode unity Medicare,Panakode unity Medicare  Karadi  Thamarassery   Calicut,Kozhikode,ANTIGEN,Panakode unity Medicare  Karadi  Thamarassery   Calicut  Kozhikode,Private Lab,11.4798020,75.834387
+494,Trinity Eye Hospital,Trinity Eye Hospital  Manali Junction  Calicut Bypass Road  Palakkad,Palakkad,ANTIGEN,Trinity Eye Hospital  Manali Junction  Calicut Bypass Road  Palakkad  Palakkad,Private Lab,10.7771524,76.666030
+495,MANJERI CLINICAL LABORATORY & IDEAL X-RAYS,MANJERI CLINICAL LABORATORY & IDEAL X-RAYS  Manjeri  Malappuram,Malappuram,ANTIGEN,MANJERI CLINICAL LABORATORY & IDEAL X-RAYS  Manjeri  Malappuram  Malappuram,Private Lab,11.1159258,76.119648
+496,NUCLEUS HEALTH CARE,NUCLEUS HEALTH CARE  NADAPURAM(P.O  KOZHIKODE,Kozhikode,ANTIGEN,NUCLEUS HEALTH CARE  NADAPURAM(P.O  KOZHIKODE  Kozhikode,Private Lab,11.2785960,75.805073
+497,TSC Hospital Private Limited,TSC Hospital Private Limited  NH Bypass  Kulathoor Near UST Global & Infosys  Thiruvananthapuram,Kollam,ANTIGEN,TSC Hospital Private Limited  NH Bypass  Kulathoor Near UST Global & Infosys  Thiruvananthapuram,Private Lab,8.5399333,76.878525
+498,Mukunda Hospital,Mukunda Hospital   668/17  Payannur  Kannur,Kannur,ANTIGEN,Mukunda Hospital   668/17  Payannur  Kannur  Kannur,Private Lab,11.8629460,75.358829
+499,VATHIYAYATH HOSPITAL,VATHIYAYATH HOSPITAL  P.P ROAD  PERUMBAVOOR  ERNAKULAM,Ernakulam,ANTIGEN,VATHIYAYATH HOSPITAL  P.P ROAD  PERUMBAVOOR  ERNAKULAM  Ernakulam,Private Lab,10.1736440,76.435989
+500,THE LAB,THE LAB  narath  Kannur  Kerala,Kannur,ANTIGEN,THE LAB  narath  Kannur  Kerala  Kannur,Private Lab,11.9690345,75.398497
+501,Kristu Jayanti Hospital,Kristu Jayanti Hospital Perumpilly Njarakkal P.O  Ernakulam,Ernakulam,ANTIGEN,Kristu Jayanti Hospital Perumpilly Njarakkal P.O  Ernakulam  Ernakulam,Private Lab,9.8548110,76.526625
+502,ATLAS Diagnostics & Imaging Centre(A Unit of Paramountcy Research & Diagnostics PVT Ltd,ATLAS Diagnostics & Imaging Centre(A Unit of Paramountcy Research & Diagnostics PVT Ltd  Venus Junction  Kottarakkara,Thiruvananthapuram,ANTIGEN,ATLAS Diagnostics & Imaging Centre(A Unit of Paramountcy Research & Diagnostics PVT Ltd  Venus Junction  Kottarakkara,Private Lab,9.0058833,76.776711
+503,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  Varikkodan Arcade  Melattur  Malappuram,Malappuram,ANTIGEN,Sudharma Specialty Laboratory  Varikkodan Arcade  Melattur  Malappuram  Malappuram,Private Lab,11.1206420,76.119871
+504,Biocore Community Laboratory,Biocore Community Laboratory  Pampuram  Opp. Govt Medical College  Parippally,Kollam,ANTIGEN,Biocore Community Laboratory  Pampuram  Opp. Govt Medical College  Parippally,Private Lab,8.8114944,76.750222
+505,Karuna Medical College,Karuna Medical College  Vilayodi  Chittur  Palakkad,Palakkad,ANTIGEN,Karuna Medical College  Vilayodi  Chittur  Palakkad  Palakkad,Private Lab,10.6788470,76.775695
+506,Esaf Hospital and Research Center,Esaf Hospital and Research Center  NH 213  Thachambara  Palakkad,Palakkad,ANTIGEN,Esaf Hospital and Research Center  NH 213  Thachambara  Palakkad  Palakkad,Private Lab,10.7748620,76.654783
+507,Palace Hospital Pvt Ltd,Palace Hospital Pvt Ltd  Asramam Road  Potta  Chalakkudy,Thrissur,ANTIGEN,Palace Hospital Pvt Ltd  Asramam Road  Potta  Chalakkudy  Thrissur,Private Lab,10.2107030,76.203456
+508,Royal Diagnostic Center,Royal Diagnostic Center   Govt. Hospital Road  Changanassery,Kottayam,ANTIGEN,Royal Diagnostic Center   Govt. Hospital Road  Changanassery  Kottayam,Private Lab,9.4511220,76.532993
+509,Medical Diagnostic Service TC 72/1219,Medical Diagnostic Service TC 72/1219  Mediplaza  Near UAE Consulate  Manacaud,Thiruvananthapuram,ANTIGEN,Medical Diagnostic Service TC 72/1219  Mediplaza  Near UAE Consulate  Manacaud  Thiruvananthapuram,Private Lab,8.4884820,76.957012
+510,Metro Scans,Metro Scans Fairooza Building  Govt Taluk Hospital Junction   Nedumangad,Kollam,ANTIGEN,Metro Scans Fairooza Building  Govt Taluk Hospital Junction   Nedumangad,Private Lab,8.4889444,76.957564
+511,Metro Scans,Metro Scans  Kailas Arcad District Hospital Road  Chamakkada  Kollam,Kollam,ANTIGEN,Metro Scans  Kailas Arcad District Hospital Road  Chamakkada  Kollam  Kollam,Private Lab,8.8956830,76.600777
+513,Metro scans,Metro scans  Bhavani Trade Centre. High School Junction  Karunagappally,Kollam,ANTIGEN,Metro scans  Bhavani Trade Centre. High School Junction  Karunagappally  Kollam,Private Lab,8.9608360,76.914402
+514,Bio Lab Clinical laboratory,Bio Lab Clinical laboratory  Modern Tower  Manipuram Road  Koduvally  Kozhikode,Kozhikode,ANTIGEN,Bio Lab Clinical laboratory  Modern Tower  Manipuram Road  Koduvally  Kozhikode  Kozhikode,Private Lab,11.3325320,75.918834
+515,Western Hospital and Nursing Home,Western Hospital and Nursing Home  Opp. Malabar Christian College  Nadakavu,Kozhikode,ANTIGEN,Western Hospital and Nursing Home  Opp. Malabar Christian College  Nadakavu  Kozhikode,Private Lab,11.5574240,75.763633
+516,PMSA Memorial Malappuram District,PMSA Memorial Malappuram District  Co-operative Hospital  Uphill PO  Manjeri Road  Malappuram,Malappuram,ANTIGEN,PMSA Memorial Malappuram District  Co-operative Hospital  Uphill PO  Manjeri Road  Malappuram  Malappuram,Private Lab,11.0519490,76.089879
