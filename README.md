@@ -1,3 +1,5 @@
+
+<h3><a href="https://covidtestcenterapi.herokuapp.com/api/all">Deployment on heroku</a></h3>
 # covid_test_centre_api
 
 An API written in Django for locating covid test centers
